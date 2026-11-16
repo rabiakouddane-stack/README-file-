@@ -8,6 +8,7 @@ Un petit site web en HTML, commencé par une page d'accueil qui dit « Bonjour !
 |--------------|----------------------------------------|
 | `index.html` | Page d'accueil qui affiche « Bonjour ! » |
 | `README.md`  | Présentation du projet (ce fichier)    |
+| `agents/`    | Agents IA en Python (voir `agents/README.md`) |
 
 ## Voir la page
 

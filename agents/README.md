@@ -1,6 +1,9 @@
 # Agents IA
 
-Ce dossier contient un premier agent IA écrit en Python avec l'API Claude.
+Ce dossier contient :
+
+- `assistant.py` : un premier agent simple, pour comprendre le principe ;
+- `flypark/` : **l'équipe d'agents de FlyPark** (responsable + 7 spécialistes), voir `flypark/README.md`.
 
 ## C'est quoi, un agent IA ?
 

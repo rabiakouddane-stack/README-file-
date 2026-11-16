@@ -1,0 +1,6 @@
+id,reservation_id,plaque,date,montant,moyen,employe,recu_id
+P001,R001,AB-123-CD,2026-11-14,59,carte,,
+P002,R002,EF-456-GH,2026-11-15,35,plateforme,,
+P003,,QR-345-ST,2026-11-16,20,especes,Agent 1,RC01
+P004,,UV-678-WX,2026-11-16,25,especes,Agent 1,
+P005,,YZ-901-AB,2026-11-16,30,especes,Agent 2,RC02

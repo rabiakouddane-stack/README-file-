@@ -1,0 +1,6 @@
+[
+  {"id": "M001", "canal": "email", "de": "client4@exemple.fr", "date": "2026-11-15 18:20",
+   "texte": "Bonjour, j'ai annulé ma réservation R004 car mon vol est reporté. Pouvez-vous me rembourser ?"},
+  {"id": "M002", "canal": "whatsapp", "de": "+33 6 00 00 00 00", "date": "2026-11-16 09:10",
+   "texte": "Bonjour, je suis devant l'entrée, à quelle heure ouvre l'accueil ?"}
+]

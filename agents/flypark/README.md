@@ -23,7 +23,7 @@ Stratégie Marketing  Ventes  Contenu  Support  Contrôle   Compta
 | **Marketing** | Prépare les campagnes Google, Instagram, Facebook, TikTok et l'emailing ; cherche les dernières tendances pour fidéliser les clients et les adapte à FlyPark | Publier, dépenser, envoyer |
 | **Ventes & partenaires** | Suit les demandes d'API, calcule le revenu net par plateforme, prépare les offres pros | Envoyer une offre |
 | **Contenu** | Rédige affiches, posts, FAQ, pages du site (brouillons) | Publier |
-| **Support & litiges** | Lit emails et WhatsApp, applique ta politique, propose « rembourser X € » ou « refuser, motif », prépare les dossiers Stripe | Rembourser, répondre |
+| **Support & litiges** | Lit emails et WhatsApp, applique ta politique (frais bancaires d'encaissement et de remboursement déduits), propose « rembourser X € » ou « refuser, motif », prépare les dossiers Stripe | Rembourser, répondre |
 | **Contrôle** | Importe les réservations dans FlyPark, compare plaques / réservations / paiements, t'alerte | — |
 | **Compta & caisse** | Rapprochement voitures / paiements / reçus, écarts d'espèces par employé, export du mois | Accuser quelqu'un (il donne des faits) |
 

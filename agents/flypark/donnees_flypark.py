@@ -315,6 +315,36 @@ def statistiques_clients(inactif_depuis_jours: int = 180) -> dict:
     }
 
 
+def calculer_remboursement(reservation_id: str, pourcentage: float) -> dict:
+    """Montant à rembourser selon la politique, frais bancaires d'encaissement et de remboursement déduits."""
+    resa = next((r for r in lire_csv("reservations.csv") if r["id"] == reservation_id), None)
+    if not resa:
+        return {"erreur": f"Réservation {reservation_id} introuvable."}
+    paiements = [p for p in lire_csv("paiements.csv") if p["reservation_id"] == reservation_id]
+    if not paiements:
+        return {"erreur": f"Aucun paiement trouvé pour {reservation_id} : rien à rembourser."}
+    moyen = paiements[0]["moyen"]
+    paye = sum(_montant(p["montant"]) for p in paiements)
+    if moyen == "plateforme":
+        return {"reservation": reservation_id, "paye": paye, "moyen": moyen,
+                "info": "Payée via une plateforme : le remboursement passe par la plateforme, selon ses règles."}
+    frais = config().get("frais_bancaires", {}).get(moyen)
+    if frais is None:
+        return {"erreur": f"Frais bancaires inconnus pour le moyen « {moyen} » : à ajouter dans config.json."}
+    base = round(paye * pourcentage / 100, 2)
+    f_enc = round(paye * frais["encaissement"]["pct"] / 100 + frais["encaissement"]["fixe"], 2) if base > 0 else 0.0
+    f_remb = round(base * frais["remboursement"]["pct"] / 100 + frais["remboursement"]["fixe"], 2) if base > 0 else 0.0
+    final = max(0.0, round(base - f_enc - f_remb, 2))
+    return {
+        "reservation": reservation_id, "moyen": moyen, "montant_paye": paye,
+        "pourcentage_politique": pourcentage, "remboursement_de_base": base,
+        "frais_encaissement_deduits": f_enc, "frais_remboursement_deduits": f_remb,
+        "montant_a_rembourser": final,
+        "detail_pour_le_client": f"{base:.2f} € ({pourcentage:g} % de {paye:.2f} €) − {f_enc:.2f} € de frais "
+                                 f"d'encaissement − {f_remb:.2f} € de frais de remboursement = {final:.2f} €",
+    }
+
+
 # --- Support ----------------------------------------------------------------
 
 def lire_messages() -> list[dict]:

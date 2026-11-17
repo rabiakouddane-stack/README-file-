@@ -24,6 +24,39 @@
     "7": 60,
     "14": 95
   },
+  "frais_bancaires": {
+    "_note": "EXEMPLE : mets les vrais frais de ta banque / Stripe. pct = % du montant, fixe = euros.",
+    "carte": {
+      "encaissement": {
+        "pct": 1.5,
+        "fixe": 0.25
+      },
+      "remboursement": {
+        "pct": 0,
+        "fixe": 0.25
+      }
+    },
+    "especes": {
+      "encaissement": {
+        "pct": 0,
+        "fixe": 0
+      },
+      "remboursement": {
+        "pct": 0,
+        "fixe": 0
+      }
+    },
+    "virement": {
+      "encaissement": {
+        "pct": 0,
+        "fixe": 0
+      },
+      "remboursement": {
+        "pct": 0,
+        "fixe": 0
+      }
+    }
+  },
   "plateformes": [
     {
       "nom": "site",

@@ -100,6 +100,13 @@ OUTILS = {
                recherche=("string", "Numéro, plaque, nom ou email.")),
         lambda recherche: _json(d.chercher_reservation(recherche)),
     ),
+    "calculer_remboursement": (
+        _outil("calculer_remboursement", "Calcule le montant exact à rembourser : pourcentage de la politique, "
+               "MOINS les frais bancaires d'encaissement et de remboursement. Utilise TOUJOURS ce calcul.",
+               reservation_id=("string", "Numéro de réservation, ex. R004."),
+               pourcentage=("number", "Pourcentage prévu par la politique (100, 50, 0…).")),
+        lambda reservation_id, pourcentage: _json(d.calculer_remboursement(reservation_id, float(pourcentage))),
+    ),
     "lire_messages": (
         _outil("lire_messages", "Lit les emails et messages WhatsApp reçus des clients."),
         lambda: _json(d.lire_messages()),
@@ -215,11 +222,14 @@ SPECIALISTES = {
         "consignes": """Tu es l'agent Support, réservations & litiges.
 - Lis les emails et WhatsApp, retrouve la réservation concernée, et prépare une réponse.
 - Applique la politique d'annulation et de remboursement À LA LETTRE, en citant la règle utilisée.
+- Pour tout montant à rembourser, utilise calculer_remboursement : les frais bancaires
+  (encaissement + remboursement) sont TOUJOURS déduits. Mets le détail du calcul dans la décision
+  et dans le brouillon de réponse au client, pour qu'il comprenne le montant.
 - Pour chaque demande d'argent, crée une décision : « rembourser X € » ou « refuser, motif : … »,
   avec le brouillon de réponse au client dans les détails.
 - Prépare les dossiers de litige et de contestation bancaire Stripe (faits, chronologie, preuves).
 - Tu ne rembourses JAMAIS seul et tu n'envoies aucune réponse toi-même.""",
-        "outils": ["lire_messages", "chercher_reservation", "lire_politique", "preparer_dossier_litige",
+        "outils": ["lire_messages", "chercher_reservation", "lire_politique", "calculer_remboursement", "preparer_dossier_litige",
                    "proposer_decision"],
         "web": False,
     },

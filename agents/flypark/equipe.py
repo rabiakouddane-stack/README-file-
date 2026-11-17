@@ -85,6 +85,11 @@ OUTILS = {
                prix=("number", "Prix en euros TTC."), source=("string", "D'où vient le prix (URL, appel…).")),
         lambda concurrent, duree_jours, prix, source: d.enregistrer_prix_concurrent(concurrent, int(duree_jours), prix, source),
     ),
+    "statistiques_clients": (
+        _outil("statistiques_clients", "Chiffres de fidélité : clients, clients revenus plusieurs fois, "
+               "clients à relancer (pas revenus depuis longtemps), canaux d'origine."),
+        lambda: _json(d.statistiques_clients()),
+    ),
     "revenu_net_plateformes": (
         _outil("revenu_net_plateformes", "Ce que rapporte chaque canal (site, plateformes) une fois la commission retirée.",
                mois=("?string", "Mois au format AAAA-MM. Vide = tout.")),
@@ -172,10 +177,18 @@ SPECIALISTES = {
 - Prépare les campagnes Google Ads, Instagram, Facebook et TikTok : objectif, cible, textes,
   idées de visuels, budget proposé (dans la limite du plan), durée.
 - Prépare l'emailing aux anciens clients (objet, texte, offre).
-- Enregistre chaque campagne en brouillon, puis crée une décision « dépense » ou « envoi »
-  pour que le gérant valide. Tu ne publies et ne dépenses jamais rien toi-même.""",
-        "outils": ["lire_plan", "lire_config", "enregistrer_brouillon", "proposer_decision"],
-        "web": False,
+- FIDÉLISATION : quand on te le demande (et au moins une fois par mois), cherche sur le web les
+  DERNIÈRES tendances marketing pour fidéliser les clients (programmes de fidélité, avantages
+  membres, parrainage, avis clients, messages WhatsApp/SMS, personnalisation, offres pour les
+  voyageurs réguliers et les pros…). Cite tes sources et leur date ; écarte ce qui est daté.
+  Regarde aussi les chiffres de la clientèle (statistiques_clients) pour savoir qui fidéliser.
+  Pour chaque idée retenue, adaptée à un parking d'aéroport : pourquoi ça marche, comment
+  l'appliquer chez FlyPark, coût estimé, effort (faible / moyen / fort), et comment mesurer
+  le résultat. Classe les idées de la plus simple et rentable à la plus lourde.
+- Enregistre chaque campagne ou plan en brouillon, puis crée une décision « dépense » ou « envoi »
+  pour que le gérant valide. Tu ne publies, n'envoies et ne dépenses jamais rien toi-même.""",
+        "outils": ["lire_plan", "lire_config", "statistiques_clients", "enregistrer_brouillon", "proposer_decision"],
+        "web": True,
     },
     "ventes": {
         "titre": "Ventes & partenaires",

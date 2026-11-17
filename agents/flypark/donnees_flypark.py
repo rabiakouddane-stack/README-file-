@@ -288,6 +288,33 @@ def revenu_net_plateformes(mois: str | None = None) -> dict:
     return dict(resultat)
 
 
+def statistiques_clients(inactif_depuis_jours: int = 180) -> dict:
+    """Qui sont les clients fidèles, et qui relancer ? (sans données personnelles inutiles)"""
+    par_client = defaultdict(list)
+    for r in lire_csv("reservations.csv"):
+        if r["statut"] != "annulée":
+            par_client[r["email"].lower() or r["plaque"]].append(r)
+    aujourd_hui = date.today()
+    fideles, a_relancer = 0, []
+    sources = defaultdict(int)
+    for client, resas in par_client.items():
+        sources[resas[0]["source"]] += 1
+        if len(resas) > 1:
+            fideles += 1
+        derniere = max(r["date_arrivee"] for r in resas)
+        if (aujourd_hui - date.fromisoformat(derniere)).days > inactif_depuis_jours:
+            a_relancer.append({"client": client, "derniere_venue": derniere, "venues": len(resas)})
+    total = len(par_client)
+    return {
+        "clients": total,
+        "clients_revenus_au_moins_2_fois": fideles,
+        "taux_de_retour_pct": round(100 * fideles / total, 1) if total else 0,
+        "clients_a_relancer": a_relancer,
+        "premier_canal_des_clients": dict(sources),
+        "rappel": "N'écrire qu'aux clients qui ont accepté de recevoir des messages (RGPD).",
+    }
+
+
 # --- Support ----------------------------------------------------------------
 
 def lire_messages() -> list[dict]:

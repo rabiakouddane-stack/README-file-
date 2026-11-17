@@ -24,6 +24,15 @@
     "7": 60,
     "14": 95
   },
+  "objets_publicitaires": [
+    {
+      "nom": "Sent-bon (désodorisant voiture) aux couleurs de FlyPark",
+      "usage": "offert aux clients",
+      "stock": null,
+      "cout_unitaire_euros": null,
+      "_note": "Complète le stock et le coût unitaire pour que le Marketing calcule le budget."
+    }
+  ],
   "frais_bancaires": {
     "_note": "EXEMPLE : mets les vrais frais de ta banque / Stripe. pct = % du montant, fixe = euros.",
     "carte": {

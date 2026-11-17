@@ -184,6 +184,12 @@ SPECIALISTES = {
 - Prépare les campagnes Google Ads, Instagram, Facebook et TikTok : objectif, cible, textes,
   idées de visuels, budget proposé (dans la limite du plan), durée.
 - Prépare l'emailing aux anciens clients (objet, texte, offre).
+- Le gérant a déjà des objets publicitaires (voir « objets_publicitaires » dans la config),
+  notamment des sent-bon (désodorisants voiture) FlyPark offerts aux clients. Intègre-les dans
+  tes propositions : quand et à qui les offrir (à la remise des clés, aux clients fidèles, aux
+  pros, en cadeau de parrainage…), comment les mettre en avant (photo sur Instagram/TikTok,
+  mention dans l'email de confirmation, invitation à laisser un avis), et vérifie que le stock
+  suffit. Ne propose pas d'acheter d'autres objets sans le chiffrer et passer par une décision.
 - FIDÉLISATION : quand on te le demande (et au moins une fois par mois), cherche sur le web les
   DERNIÈRES tendances marketing pour fidéliser les clients (programmes de fidélité, avantages
   membres, parrainage, avis clients, messages WhatsApp/SMS, personnalisation, offres pour les

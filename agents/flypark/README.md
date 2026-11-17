@@ -20,7 +20,7 @@ Stratégie Marketing  Ventes  Contenu  Support  Contrôle   Compta
 |---|---|---|
 | **Responsable** | Choisit les agents, leur répartit le travail (en parallèle), vérifie le plan, fait la synthèse | — |
 | **Stratégie & veille** | Relève les prix des concurrents et sur les plateformes (Allopark, Parkmundo, Free2Move…), propose un prix (ex. −1 €), étudie click & collect, stockage, gardiennage | Changer un prix |
-| **Marketing** | Prépare les campagnes Google, Instagram, Facebook, TikTok et l'emailing ; cherche les dernières tendances pour fidéliser les clients et les adapte à FlyPark | Publier, dépenser, envoyer |
+| **Marketing** | Prépare les campagnes Google, Instagram, Facebook, TikTok et l'emailing ; cherche les dernières tendances pour fidéliser les clients et les adapte à FlyPark ; utilise tes sent-bon publicitaires offerts aux clients | Publier, dépenser, envoyer |
 | **Ventes & partenaires** | Suit les demandes d'API, calcule le revenu net par plateforme, prépare les offres pros | Envoyer une offre |
 | **Contenu** | Rédige affiches, posts, FAQ, pages du site (brouillons) | Publier |
 | **Support & litiges** | Lit emails et WhatsApp, applique ta politique (frais bancaires d'encaissement et de remboursement déduits), propose « rembourser X € » ou « refuser, motif », prépare les dossiers Stripe | Rembourser, répondre |

@@ -1,11 +1,42 @@
 {
   "_note": "Valeurs d'EXEMPLE : remplace-les par tes vrais chiffres.",
   "commerce": "FlyPark",
-  "concurrents": ["Tilt", "JT Parking", "Air Parking", "Aeropark 60", "P1", "P2", "P3", "P4", "Particuliers"],
+  "concurrents": [
+    "Tilt",
+    "JT Parking",
+    "Air Parking",
+    "Aeropark 60",
+    "P1",
+    "P2",
+    "P3",
+    "P4",
+    "Particuliers"
+  ],
+  "plateformes_a_surveiller": [
+    "Allopark",
+    "Parkmundo",
+    "Free2Move"
+  ],
   "ecart_prix_euros": 1,
-  "tarifs_flypark": {"1": 15, "3": 35, "7": 60, "14": 95},
+  "tarifs_flypark": {
+    "1": 15,
+    "3": 35,
+    "7": 60,
+    "14": 95
+  },
   "plateformes": [
-    {"nom": "site", "commission_pct": 0, "frais_fixes": 0, "statut_api": "notre site"},
-    {"nom": "Plateforme A", "commission_pct": 20, "frais_fixes": 0, "statut_api": "demande envoyée le 2026-11-02, pas de réponse", "contact": ""}
+    {
+      "nom": "site",
+      "commission_pct": 0,
+      "frais_fixes": 0,
+      "statut_api": "notre site"
+    },
+    {
+      "nom": "Plateforme A",
+      "commission_pct": 20,
+      "frais_fixes": 0,
+      "statut_api": "demande envoyée le 2026-11-02, pas de réponse",
+      "contact": ""
+    }
   ]
 }

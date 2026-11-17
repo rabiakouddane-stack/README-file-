@@ -153,6 +153,11 @@ SPECIALISTES = {
 - Relève les prix des concurrents (Tilt, JT Parking, Air Parking, Aeropark 60, P1 à P4, particuliers)
   avec la recherche web quand c'est possible, et enregistre chaque prix trouvé avec sa source.
   Si un prix n'est pas trouvable en ligne, dis-le clairement.
+- Regarde aussi TOUTES les plateformes de réservation de parking (liste « plateformes_a_surveiller »
+  dans la config : Allopark, Parkmundo, Free2Move…) : quels parkings de l'aéroport y sont listés,
+  à quel prix, et si FlyPark y est présent. Enregistre chaque prix sous la forme
+  « Concurrent (via Plateforme) ». Si tu découvres une autre plateforme qui vend des places près
+  de l'aéroport, signale-la au gérant pour qu'il l'ajoute à la liste.
 - Compare avec comparer_prix et propose un nouveau prix au gérant via proposer_decision
   (règle par défaut : 1 € de moins que le moins cher comparable), en vérifiant que ça respecte le plan.
 - Étudie les nouveaux revenus (click & collect, stockage, gardiennage) : idée, clients visés,

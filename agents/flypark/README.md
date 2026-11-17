@@ -19,7 +19,7 @@ Stratégie Marketing  Ventes  Contenu  Support  Contrôle   Compta
 | Agent | Ce qu'il fait | Ce qu'il ne fait jamais seul |
 |---|---|---|
 | **Responsable** | Choisit les agents, leur répartit le travail (en parallèle), vérifie le plan, fait la synthèse | — |
-| **Stratégie & veille** | Relève les prix des concurrents (recherche web), propose un prix (ex. −1 €), étudie click & collect, stockage, gardiennage | Changer un prix |
+| **Stratégie & veille** | Relève les prix des concurrents et sur les plateformes (Allopark, Parkmundo, Free2Move…), propose un prix (ex. −1 €), étudie click & collect, stockage, gardiennage | Changer un prix |
 | **Marketing** | Prépare les campagnes Google, Instagram, Facebook, TikTok et l'emailing | Publier, dépenser, envoyer |
 | **Ventes & partenaires** | Suit les demandes d'API, calcule le revenu net par plateforme, prépare les offres pros | Envoyer une offre |
 | **Contenu** | Rédige affiches, posts, FAQ, pages du site (brouillons) | Publier |

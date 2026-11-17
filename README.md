@@ -1,28 +1,10 @@
-# README-file-
+# Studio de contenu IA : 3 chaînes (enfants, Coran enfants, Coran adultes)
 
-Un petit site web en HTML, commencé par une page d'accueil qui dit « Bonjour ! ».
-
-## Contenu
-
-| Fichier      | Rôle                                   |
-|--------------|----------------------------------------|
-| `index.html` | Page d'accueil qui affiche « Bonjour ! » |
-| `README.md`  | Présentation du projet (ce fichier)    |
-
-## Voir la page
-
-- **En local :** ouvrir `index.html` dans un navigateur.
-- **En ligne :** activer GitHub Pages dans *Settings → Pages → Branch : `main`*.
-  La page sera alors disponible à l'adresse
-  `https://rabiakouddane-stack.github.io/README-file-/`.
-
-## Méthode de travail
-
-Chaque modification suit le même parcours, pour garder l'historique de toutes les étapes :
-
-1. Créer une **branche** pour la tâche.
-2. Faire des **commits** courts, avec un message clair.
-3. Ouvrir une **pull request** vers `main`.
-4. **Relire** les changements, puis **fusionner** dans `main`.
-
-La branche `main` ne contient que du travail relu et validé.
+| Document | Contenu |
+|---|---|
+| [docs/00-synthese-et-avis.md](docs/00-synthese-et-avis.md) | Avis, risques, architecture de l'équipe IA, outils, monétisation, ordre de lancement |
+| [docs/projet-1-dessins-animes-enfants.md](docs/projet-1-dessins-animes-enfants.md) | Étude de marché et stratégie : dessins animés pour les 3-5 ans |
+| [docs/projet-2-coran-enfants.md](docs/projet-2-coran-enfants.md) | Étude de marché et stratégie : Coran pour enfants (AR/FR/EN) |
+| [docs/projet-3-fiches-coran-adultes.md](docs/projet-3-fiches-coran-adultes.md) | Étude de marché et stratégie : fiches Coran pour adultes (Instagram/TikTok) |
+| [docs/questionnaire-complet.md](docs/questionnaire-complet.md) | Toutes les questions à remplir avant de produire |
+| [.claude/agents/](.claude/agents/) | Les 12 agents de l'équipe (prompts système) |

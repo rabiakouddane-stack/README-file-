@@ -29,6 +29,7 @@
 | Yanis, v5 (lisse, châtain) | REF_YANIS_v5.png | MAHbQ2hpF3U | ❌ couleur |
 | **Yanis, v6 (lisse, brun foncé comme Amir)** | REF_YANIS_v6.png | **MAHbQ1uP7Yo** | ⏳ à valider |
 | **PHOTO DE FAMILLE (les 11 personnages)** | PHOTO_FAMILLE_v1.png | **MAHbQ9hAXtM** | ⏳ à valider |
+| **LINEUP : les 11 personnages côte à côte (dernières versions)** | LINEUP_FAMILLE_v1.png | **MAHbQwE6Gyw** | ⏳ à valider en lot |
 
 > Les agents réutilisent l'**ID média Canva** comme image de référence pour garder les personnages identiques.
 > Ces fichiers sont des aperçus en basse résolution. Les originaux sont dans Canva.

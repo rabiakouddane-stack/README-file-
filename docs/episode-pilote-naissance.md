@@ -45,9 +45,9 @@ STYLE: original stylized 3D animation, soft rounded shapes, warm natural light, 
 | 7 | 8 s | Le soir. Ma s'assoit près d'Alya sur le canapé, la prend contre elle et lui montre un album photo : Maman quand elle était bébé. | **Narratrice** : « Alya est inquiète. C'est normal. » **Ma** : « Regarde. Ta maman, quand elle était toute petite. » **Alya** : « Maman bébé ! » *(petit rire)* | pages tournées |
 | 8 | 7 s | Le matin. Le téléphone de Ma sonne. Ma sourit et se penche vers Alya. Alya tape des mains. | **Ma** : « Ton petit frère est né ! Il s'appelle Amir. » **Alya** : « Amir ! » | sonnerie douce, petites mains qui tapent |
 | 9 | 7 s | À la petite table, Alya fait un dessin pour son frère avec des crayons de couleur. Ma l'aide à le plier. | **Narratrice** : « Alya prépare un cadeau pour son petit frère. » | crayon sur le papier |
-| 10 | 7 s | **À la maternité.** Dans un couloir lumineux et coloré, Alya marche en tenant la main de Ma, son dessin dans l'autre main. | **Narratrice** : « Alya et Ma vont à la maternité. » | petits pas |
-| 11 | 7 s | La porte de la chambre s'ouvre. Maman est dans le lit, Amir dans les bras. Papa est assis à côté. | **Narratrice** : « Ils sont là ! » **Papa** *(doucement)* : « Entre, ma chérie. » | porte qui s'ouvre doucement |
-| 12 | 7 s | Alya se cache derrière les jambes de Ma, timide. | **Narratrice** : « Alya est timide. Elle regarde… doucement. » | – |
+| 10 | 7 s | **À la maternité.** Papa est venu chercher Alya et Ma. Dans un couloir lumineux et coloré, Alya marche en tenant **la main de Papa**, son dessin dans l'autre main. Ma marche à côté. | **Narratrice** : « Papa emmène Alya voir son petit frère. » | petits pas |
+| 11 | 7 s | Papa ouvre doucement la porte de la chambre. Maman est dans le lit, Amir dans les bras. | **Narratrice** : « Ils sont là ! » **Papa** *(doucement)* : « Entre, ma chérie. » | porte qui s'ouvre doucement |
+| 12 | 7 s | Alya se cache derrière les jambes de Papa, timide. Ma sourit derrière eux. | **Narratrice** : « Alya est timide. Elle regarde… doucement. » | – |
 | 13 | 8 s | Maman tend la main. Papa soulève Alya et l'assoit au bord du lit, tout près du bébé. | **Maman** : « Viens, Alya. Viens voir Amir. » **Alya** *(chuchote)* : « Amir… tout petit. » | – |
 | 14 | 6 s | Maman montre la petite main du bébé. | **Maman** : « Doucement… avec un doigt. » **Narratrice** : « Doucement. Doucement. » | – |
 | 15 | 8 s | ⭐ **Le moment fort** : Amir attrape le doigt d'Alya. Gros plan. Alya ouvre la bouche, émerveillée. | *(silence 3 s)* **Alya** : « Il tient ma main ! » | silence, petit souffle de bébé |
@@ -60,7 +60,7 @@ STYLE: original stylized 3D animation, soft rounded shapes, warm natural light, 
 ## Prompts image (exemples clés ; même modèle pour les autres plans)
 - **Plan 1** : `[PERSONNAGES] ALYA placing both small hands on pregnant MOM's round belly, both sitting on a round beige wool rug in a bright Montessori living room, low wooden shelf, plants, large window, soft morning light, child-eye-level camera, 16:9`
 - **Plan 7** : `[PERSONNAGES] MA sitting on the sofa in the evening, hugging ALYA and showing her an old photo album, warm lamp light, cozy and reassuring mood, 16:9`
-- **Plan 11** : `[PERSONNAGES] Hospital maternity room door opening, MOM in the bed holding newborn AMIR, DAD sitting beside her, seen from ALYA's low point of view, bright colorful child-friendly room, clear daylight, 16:9`
+- **Plan 11** : `[PERSONNAGES] Hospital maternity room door opening, DAD opening the door, MOM in the bed holding newborn AMIR, seen from ALYA's low point of view, bright colorful child-friendly room, clear daylight, 16:9`
 - **Plan 15** : `[PERSONNAGES] Extreme close-up of newborn AMIR's tiny hand gripping ALYA's small finger, ALYA's amazed face softly blurred in the background, golden light, very tender, 16:9`
 - **Plan 17** : `[PERSONNAGES] In the maternity room, ALYA hugging a soft baby doll (cream romper, little pink bonnet) she just unwrapped, MOM in bed holding AMIR, DAD beside, MAMIE, PAPI, BASSI, AUNT, UNCLE and YANIS entering and smiling, wide shot, clear daylight, 16:9`
 - **LA POUPÉE (accessoire fixe)** : `a soft baby doll with a round face, short dark hair, cream romper with tiny hearts and a little pink bonnet`

@@ -88,3 +88,4 @@
 | Animation | **Kling** (choix de la directrice). Scènes 13 à 18 validées : les 18 scènes de l'histoire sont validées. |
 | Lumière | **Jamais de lumière sombre** dans les images : même le soir, les pièces sont bien éclairées, claires et gaies |
 | Scènes du soir | **Intérieur très lumineux**, mais on voit **par la fenêtre ou la porte que c'est la nuit** (ciel bleu nuit, lune, étoiles) |
+| Scènes 1 à 6 (grand format) | ✅ Validées. **Garder cette lumière** pour toutes les scènes : claire, jamais trop sombre |

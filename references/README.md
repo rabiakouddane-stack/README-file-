@@ -11,6 +11,10 @@
 | Maman, v1 (robe, chignon) | REF_MAMAN_v1.png | MAHbQiw-PiU | ❌ refusée |
 | **Maman, v2 (cheveux noirs longs, jean et pull)** | REF_MAMAN_v2.png | **MAHbQkFFMoo** | ✅ **CHOISIE** |
 | **Papa, v1** | REF_PAPA_v1.png | **MAHbQjaOy1Y** | ✅ **CHOISI** |
+| **Mamie, v1** | REF_MAMIE_v1.png | **MAHbQlfmRNs** | ⏳ à valider |
+| **Papi, v1** | REF_PAPI_v1.png | **MAHbQjZ69ro** | ⏳ à valider |
+| **Ma, v1** | REF_MA_v1.png | **MAHbQvXcioM** | ⏳ à valider |
+| **Bassi, v1** | REF_BASSI_v1.png | **MAHbQvCZ0Q4** | ⏳ à valider |
 
 > Les agents réutilisent l'**ID média Canva** comme image de référence pour garder les personnages identiques.
 > Ces fichiers sont des aperçus en basse résolution. Les originaux sont dans Canva.

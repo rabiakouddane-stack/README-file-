@@ -20,11 +20,13 @@
 | Bassi, v1 (gilet) | REF_BASSI_v1.png | MAHbQvCZ0Q4 | ❌ refusée |
 | **Bassi, v2 (64 ans, jean et t-shirt)** | REF_BASSI_v2.png | **MAHbQlM-TDY** | ✅ **CHOISI** |
 | **Tata, v1 (30 ans, cheveux très longs, t-shirt et jean)** | REF_TATA_v1.png | **MAHbQ-bs2P4** | ⏳ à valider |
-| **Tonton, v1 (grand, 30 ans, t-shirt et jean)** | REF_TONTON_v1.png | **MAHbQ9oC2w0** | ⏳ à valider |
+| Tonton, v1 | REF_TONTON_v1.png | MAHbQ9oC2w0 | ❌ cheveux trop longs |
+| **Tonton, v2 (cheveux très courts)** | REF_TONTON_v2.png | **MAHbQwvY7d8** | ⏳ à valider |
 | Yanis, v1 (cheveux courts) | REF_YANIS_v1.png | MAHbQyPcOGk | ❌ remplacée |
 | Yanis, v2 (trop bouclé) | REF_YANIS_v2.png | MAHbQ_zea54 | ❌ |
 | Yanis, v3 (presque lisse, aux épaules) | REF_YANIS_v3.png | MAHbQ32jI_M | ❌ 2 cm trop long |
-| **Yanis, v4 (presque lisse, juste au-dessus des épaules)** | REF_YANIS_v4.png | **MAHbQx-72vg** | ⏳ à valider |
+| Yanis, v4 (légèrement ondulé) | REF_YANIS_v4.png | MAHbQx-72vg | ❌ |
+| **Yanis, v5 (lisse, juste au-dessus des épaules)** | REF_YANIS_v5.png | **MAHbQ2hpF3U** | ⏳ à valider |
 
 > Les agents réutilisent l'**ID média Canva** comme image de référence pour garder les personnages identiques.
 > Ces fichiers sont des aperçus en basse résolution. Les originaux sont dans Canva.

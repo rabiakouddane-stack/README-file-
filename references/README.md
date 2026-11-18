@@ -48,4 +48,5 @@
 | Maison des grands-parents v2 (moins de jaune) | DECOR_MAISON_GRANDS-PARENTS_v2.png | MAHbRBdKLgg | ❌ trop adulte |
 | **Salon v3 (univers d'enfant)** | DECOR_SALON_v3_enfant.png | **MAHbRPsPPII** | ⏳ à valider |
 | **Entrée v3 (univers d'enfant)** | DECOR_ENTREE_v3_enfant.png | **MAHbRFCuMs0** | ⏳ à valider |
-| **Maison des grands-parents v3 (univers d'enfant)** | DECOR_MAISON_GRANDS-PARENTS_v3_enfant.png | **MAHbREtKmcE** | ⏳ à valider |
+| Maison des grands-parents v3 (univers d'enfant) | DECOR_MAISON_GRANDS-PARENTS_v3_enfant.png | MAHbREtKmcE | ❌ cuisine pas assez moderne |
+| **Maison des grands-parents v4 (cuisine moderne)** | DECOR_MAISON_GRANDS-PARENTS_v4_moderne.png | **MAHbRIw8v7g** | ⏳ à valider |

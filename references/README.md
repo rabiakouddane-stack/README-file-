@@ -46,3 +46,6 @@
 | Entrée v2 (moins de jaune) | DECOR_ENTREE_v2.png | MAHbRKfzTGM | ❌ trop adulte |
 | Maison des grands-parents v1 | DECOR_MAISON_GRANDS-PARENTS_v1.png | MAHbQ0onWaM | ❌ trop jaune |
 | Maison des grands-parents v2 (moins de jaune) | DECOR_MAISON_GRANDS-PARENTS_v2.png | MAHbRBdKLgg | ❌ trop adulte |
+| **Salon v3 (univers d'enfant)** | DECOR_SALON_v3_enfant.png | **MAHbRPsPPII** | ⏳ à valider |
+| **Entrée v3 (univers d'enfant)** | DECOR_ENTREE_v3_enfant.png | **MAHbRFCuMs0** | ⏳ à valider |
+| **Maison des grands-parents v3 (univers d'enfant)** | DECOR_MAISON_GRANDS-PARENTS_v3_enfant.png | **MAHbREtKmcE** | ⏳ à valider |

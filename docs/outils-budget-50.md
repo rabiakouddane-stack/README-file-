@@ -34,3 +34,10 @@
 2. **Image d'abord, vidéo ensuite** : on génère 2 ou 3 images (gratuites), on choisit la meilleure, puis on l'anime une seule fois.
 3. **Plans réutilisables** : le salon, Alya qui marche, la famille réunie… On construit une bibliothèque de plans qu'on réutilise d'un épisode à l'autre.
 4. **Plans fixes et mouvements lents** : ils réussissent du premier coup bien plus souvent (et ça correspond à notre style calme).
+
+## Option : produire directement depuis Claude, avec le connecteur Canva
+Claude ne fabrique pas lui-même les images ni les vidéos, mais il peut **piloter Canva** (connecteur déjà relié à ce compte) :
+- **Images** : Claude génère les images de référence et les images des scènes dans Canva. On peut lui redonner une image de référence pour garder les personnages identiques.
+- **Vidéo** : Claude peut lancer des **clips IA de 5 à 30 secondes** (720p maximum, 16:9 ou 9:16), avec une voix générée et des images de référence pour les personnages.
+- **Limites** : chaque vidéo consomme une **grande part de la limite IA mensuelle de Canva**. Un épisode de 2 min 30 demande environ 6 à 10 clips. C'est idéal pour **les Shorts (30 s)** et pour tester ; pour les épisodes complets, Kling reste plus économique.
+- **Montage** : les clips sont ensuite assemblés dans Canva ou CapCut.

@@ -46,11 +46,12 @@ On termine par **« Et toi ? »** : une invitation à faire la même chose **en 
 | **Maman** | Douce, à hauteur d'enfant | `MOM: woman in her early 30s, gentle smile, warm brown eyes, light tan skin, dark curly hair in a low bun, soft terracotta long dress` |
 | **Papa** | Joueur, rassurant | `DAD: man in his early 30s, short dark hair, neat short beard, kind eyes, light-grey sweater` |
 | **Mamie** (côté papa) | La cuisine, la transmission, garde Alya | `MAMIE: warm elderly woman, round kind face, wrinkled smile, cream hijab, beige long cardigan` |
-| **Papi** (côté papa) | Les photos de famille, le jardin, la patience | `PAPI: gentle elderly man, short white beard, round glasses, brown knitted vest` |
+| **Papi** (côté papa) | Les photos de famille, le jardin, la patience | `PAPI: gentle elderly man, short white beard, round glasses, grey knitted beanie, brown knitted vest` |
 | **Ma** (côté maman) | La conteuse, les câlins, les gâteaux | `MA: small elderly woman, sparkling dark eyes, sage-green hijab, soft terracotta long dress` |
-| **Bassi** (côté maman) | Les promenades, les rires, les petites blagues | `BASSI: tall elderly man, grey moustache, warm laugh lines, navy cardigan, flat cap` |
+| **Bassi** (côté maman) | Les promenades, les rires, les petites blagues | `BASSI: tall grandfather in his early 60s, black hair, thick black moustache, warm laugh lines, navy cardigan, no hat` |
 | **Tata** | Le jeu, les visites surprises | `AUNT: young woman in her 20s, joyful expression, long dark wavy hair, mustard-yellow cardigan` |
-| **Tonton et cousins** | Les repas en famille, le partage | *À créer quand ils apparaissent* |
+| **Yanis** (le cousin, 5 ans) | Le grand cousin qui joue, protège et montre l'exemple | `YANIS (cousin): a 5-year-old boy, short curly black hair, big cheerful smile, missing front tooth, red hoodie, jeans, sneakers` |
+| **Tonton** | Les repas en famille, le partage | *À créer quand il apparaît* |
 | **Les amis** (une petite voisine, par exemple) | La sociabilité | *À créer quand ils apparaissent* |
 
 **Foulard** : seules les deux grands-mères (Mamie et Ma) portent le foulard. Maman et Tata ne le portent pas.
@@ -97,7 +98,7 @@ Une voix **féminine, douce et posée** qui décrit, nomme les émotions et pose
 10. Le premier sourire d'Amir… pour Alya ! *(épisode fort)*
 11. Ma apprend à Alya à préparer le goûter
 12. La promenade en poussette au parc : Alya pousse aussi
-13. Les cousins viennent voir le bébé (partager, être doux)
+13. Yanis vient voir le bébé (partager, être doux, le grand cousin)
 14. Le soir, toute la famille dit bonne nuit
 
 **Saisons suivantes** : Saison 2, « Amir s'assoit » (3-6 mois) ; Saison 3, « Amir rampe partout » (6-9 mois, avec l'épisode « banane », déjà écrit dans `episode-banane.md`) ; Saison 4, « Les premiers pas ».

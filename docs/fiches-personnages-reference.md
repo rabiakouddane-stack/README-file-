@@ -52,7 +52,7 @@ Character turnaround sheet of MAMIE: warm elderly grandmother, round kind face, 
 
 ### Papi (côté papa)
 ```
-Character turnaround sheet of PAPI: gentle elderly grandfather, short white beard, round glasses, brown knitted vest over a white shirt. Front, three-quarter, side views, full body. [STYLE]
+Character turnaround sheet of PAPI: gentle elderly grandfather, short white beard, round glasses, grey knitted beanie, brown knitted vest over a white shirt. Front, three-quarter, side views, full body. [STYLE]
 ```
 
 ### Ma (côté maman)
@@ -62,12 +62,17 @@ Character turnaround sheet of MA: small elderly grandmother, sparkling dark eyes
 
 ### Bassi (côté maman)
 ```
-Character turnaround sheet of BASSI: tall elderly grandfather, grey moustache, warm laugh lines, navy cardigan, flat cap. Front, three-quarter, side views, full body. [STYLE]
+Character turnaround sheet of BASSI: tall grandfather in his early 60s, black hair, thick black moustache, warm laugh lines, navy cardigan, no hat. Front, three-quarter, side views, full body. [STYLE]
 ```
 
 ### Tata
 ```
 Character turnaround sheet of AUNT: young woman in her 20s, joyful expression, long dark wavy hair, mustard-yellow cardigan, jeans. Front, three-quarter, side views, full body. [STYLE]
+```
+
+### Yanis (le cousin, 5 ans)
+```
+Character turnaround sheet of YANIS: a 5-year-old boy, short curly black hair, big cheerful smile, missing front tooth, red hoodie, jeans, sneakers. Front, three-quarter, side views, full body. [STYLE]
 ```
 
 ### Les décors (une seule fois)
@@ -78,7 +83,7 @@ Bright Montessori living room, child-eye-level view: low wooden shelf with a few
 Warm front entrance of a family home seen from a toddler's height, wooden door, coat hooks, soft daylight. Original stylized 3D animation, no people, no text.
 ```
 
-**À la fin de l'étape 1, tu as environ 12 images de référence.** Elles serviront pour **toute la série**.
+**À la fin de l'étape 1, tu as environ 13 images de référence.** Elles serviront pour **toute la série**.
 
 ---
 
@@ -113,7 +118,7 @@ L'agent Montage fournit la feuille de montage : ordre, durées, fondus, voix, so
 | Jour | Ce que tu fais |
 |---|---|
 | J1 | Images de référence : Alya, Amir, Maman, Papa (choisir les meilleures) |
-| J2 | Images de référence : Mamie, Papi, Ma, Bassi, Tata, décors |
+| J2 | Images de référence : Mamie, Papi, Ma, Bassi, Tata, Yanis, décors |
 | J3 | Images des scènes 1 à 9 |
 | J4 | Images des scènes 10 à 18 |
 | J5 | Animation des scènes 1 à 9 (Kling) |

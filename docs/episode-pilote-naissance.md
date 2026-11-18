@@ -20,10 +20,11 @@ AMIR (newborn): a tiny newborn baby boy, sleepy face, wisps of dark hair, wrappe
 MOM: woman in her early 30s, gentle smile, warm brown eyes, light tan skin, dark curly hair in a low bun, soft terracotta long dress.
 DAD: man in his early 30s, short dark hair, neat short beard, kind eyes, light-grey sweater.
 MAMIE (paternal grandmother): warm elderly woman, round kind face, wrinkled smile, cream hijab, beige long cardigan.
-PAPI (paternal grandfather): gentle elderly man, short white beard, round glasses, brown knitted vest.
+PAPI (paternal grandfather): gentle elderly man, short white beard, round glasses, grey knitted beanie, brown knitted vest.
 MA (maternal grandmother): small elderly woman, sparkling dark eyes, sage-green hijab, soft terracotta long dress.
-BASSI (maternal grandfather): tall elderly man, grey moustache, warm laugh lines, navy cardigan, flat cap.
+BASSI (maternal grandfather): tall grandfather in his early 60s, black hair, thick black moustache, warm laugh lines, navy cardigan, no hat.
 AUNT (Tata): young woman in her 20s, joyful expression, long dark wavy hair, mustard-yellow cardigan.
+YANIS (cousin): a 5-year-old boy, short curly black hair, big cheerful smile, missing front tooth, red hoodie, jeans, sneakers.
 STYLE: original stylized 3D animation, soft rounded shapes, warm natural light, soft materials (wood, linen, wool), shallow depth of field, cinematic quality, pastel palette sage green, cream, light wood, soft terracotta.
 ```
 **Prompt négatif** : `text, letters, watermark, extra fingers, deformed hands, scary, neon colors, fast motion, logo, existing cartoon characters`
@@ -43,14 +44,14 @@ STYLE: original stylized 3D animation, soft rounded shapes, warm natural light, 
 | 7 | 8 s | Mamie s'assoit près d'elle, la prend contre elle. | **Narratrice** : « Alya est inquiète. C'est normal. » **Mamie** : « Maman revient bientôt, ma chérie. Avec ton petit frère. » | – |
 | 8 | 7 s | Papi, à genoux, montre à Alya une photo de Papa bébé dans un album. | **Papi** : « Regarde. Ton papa, quand il était tout petit. » **Alya** : « Papa bébé ! » *(rire)* | pages tournées |
 | 9 | 7 s | Le matin. Alya et Mamie préparent ensemble un petit dessin ou un doudou à offrir. | **Narratrice** : « Alya prépare un cadeau pour son frère. » | – |
-| 10 | 7 s | La porte s'ouvre. Papa entre, puis Maman avec le bébé dans les bras. Ma, Bassi et Tata arrivent juste derrière. | **Narratrice** : « Ils sont là ! » | porte, petits cris de joie chuchotés |
+| 10 | 7 s | La porte s'ouvre. Papa entre, puis Maman avec le bébé dans les bras. Ma, Bassi, Tata et le cousin Yanis arrivent juste derrière. | **Narratrice** : « Ils sont là ! » | porte, petits cris de joie chuchotés |
 | 11 | 7 s | Alya se cache derrière les jambes de Mamie, timide. | **Narratrice** : « Alya est timide. Elle regarde… doucement. » | – |
 | 12 | 7 s | Maman s'assoit sur le canapé et tapote la place à côté d'elle. | **Maman** : « Viens, Alya. Viens voir Amir. » | – |
 | 13 | 8 s | Alya s'approche lentement, monte sur le canapé, regarde le bébé. | **Alya** *(chuchote)* : « Amir… tout petit. » | – |
 | 14 | 6 s | Maman montre la petite main. | **Maman** : « Doucement… avec un doigt. » **Narratrice** : « Doucement. Doucement. » | – |
 | 15 | 8 s | ⭐ **Le moment fort** : Amir attrape le doigt d'Alya. Gros plan. Alya ouvre la bouche, émerveillée. | *(silence 3 s)* **Alya** : « Il tient ma main ! » | silence, petit souffle de bébé |
 | 16 | 7 s | Alya donne son cadeau en le posant près du bébé. | **Alya** : « Pour toi, Amir. » | – |
-| 17 | 8 s | Toute la famille réunie autour du canapé : Mamie, Papi, Ma, Bassi, Tata, Papa, Maman, Alya, Amir. Plan large, lumière dorée. | **Narratrice** : « La famille est plus grande maintenant. Et tout le monde s'aime. » **Bassi** *(doucement)* : « Bienvenue, mon petit. » | rires doux |
+| 17 | 8 s | Toute la famille réunie autour du canapé : Mamie, Papi, Ma, Bassi, Tata, Yanis, Papa, Maman, Alya, Amir. Plan large, lumière dorée. | **Narratrice** : « La famille est plus grande maintenant. Et tout le monde s'aime. » **Bassi** *(doucement)* : « Bienvenue, mon petit. » | rires doux |
 | 18 | 8 s | Alya regarde la caméra. | **Alya** : « Bienvenue Amir ! » **Narratrice** : « Et toi ? Va faire un gros câlin à ta famille. » | fin en silence |
 
 ---
@@ -58,9 +59,9 @@ STYLE: original stylized 3D animation, soft rounded shapes, warm natural light, 
 ## Prompts image (exemples clés ; même modèle pour les autres plans)
 - **Plan 1** : `[PERSONNAGES] ALYA placing both small hands on pregnant MOM's round belly, both sitting on a round beige wool rug in a bright Montessori living room, low wooden shelf, plants, large window, soft morning light, child-eye-level camera, 16:9`
 - **Plan 7** : `[PERSONNAGES] MAMIE sitting by the window in the evening, hugging worried ALYA who holds a small knitted plush, warm lamp light, cozy and reassuring mood, 16:9`
-- **Plan 10** : `[PERSONNAGES] Front door opening, DAD entering, MOM holding newborn AMIR wrapped in a cream blanket, MA, BASSI and AUNT smiling behind, seen from ALYA's low point of view, warm daylight, 16:9`
+- **Plan 10** : `[PERSONNAGES] Front door opening, DAD entering, MOM holding newborn AMIR wrapped in a cream blanket, MA, BASSI, AUNT and YANIS smiling behind, seen from ALYA's low point of view, warm daylight, 16:9`
 - **Plan 15** : `[PERSONNAGES] Extreme close-up of newborn AMIR's tiny hand gripping ALYA's small finger, ALYA's amazed face softly blurred in the background, golden light, very tender, 16:9`
-- **Plan 17** : `[PERSONNAGES] Whole family gathered around a cream sofa: MOM holding AMIR, ALYA beside her, DAD, MAMIE, PAPI, MA, BASSI and AUNT smiling, wide shot, golden afternoon light, 16:9`
+- **Plan 17** : `[PERSONNAGES] Whole family gathered around a cream sofa: MOM holding AMIR, ALYA beside her, DAD, MAMIE, PAPI, MA, BASSI, AUNT and YANIS smiling, wide shot, golden afternoon light, 16:9`
 
 ## Prompts vidéo (exemples)
 - **Plan 2** : `The girl's hand rests on the belly, a tiny movement under her hand, her eyes widen in surprise, static camera, 6 seconds`

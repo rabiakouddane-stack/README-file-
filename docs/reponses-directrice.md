@@ -44,3 +44,12 @@
 | P2 : musique | **Avec musique** |
 | Voix de la narratrice | **Voix IA** (la directrice n'enregistre pas) → voix sous licence commerciale |
 | Épisode pilote « Bienvenue Amir ! » | ✅ **Validé** |
+
+## Réponses du 18/11/2026 (quatrième série)
+
+| Sujet | Décision |
+|---|---|
+| Ma et Bassi | Confirmé : les grands-parents du côté de maman |
+| Bassi | **Cheveux noirs, moustache noire, sans casquette** |
+| Papi | Barbe blanche, lunettes, **avec un bonnet** |
+| Nouveau personnage | **Yanis, le cousin** (5 ans provisoirement ; ses parents restent à préciser) |

@@ -52,4 +52,4 @@
 | Ma et Bassi | Confirmé : les grands-parents du côté de maman |
 | Bassi | **Cheveux noirs, moustache noire, sans casquette** |
 | Papi | Barbe blanche, lunettes, **avec un bonnet** |
-| Nouveau personnage | **Yanis, le cousin** (5 ans provisoirement ; ses parents restent à préciser) |
+| Nouveau personnage | **Yanis, le cousin, 2 ans et demi**, fils de **Tonton** (le frère de maman) |

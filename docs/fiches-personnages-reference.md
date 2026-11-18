@@ -70,9 +70,14 @@ Character turnaround sheet of BASSI: tall grandfather in his early 60s, black ha
 Character turnaround sheet of AUNT: young woman in her 20s, joyful expression, long dark wavy hair, mustard-yellow cardigan, jeans. Front, three-quarter, side views, full body. [STYLE]
 ```
 
-### Yanis (le cousin, 5 ans)
+### Yanis (le cousin, 2 ans et demi)
 ```
-Character turnaround sheet of YANIS: a 5-year-old boy, short curly black hair, big cheerful smile, missing front tooth, red hoodie, jeans, sneakers. Front, three-quarter, side views, full body. [STYLE]
+Character turnaround sheet of YANIS: a 2-and-a-half-year-old toddler boy, short curly black hair, chubby cheeks, big cheerful smile, red hoodie, soft jeans, small sneakers. Front, three-quarter, side views, full body. [STYLE]
+```
+
+### Tonton (frère de maman, papa de Yanis)
+```
+Character turnaround sheet of UNCLE: man in his late 20s, short black hair, short trimmed beard, big friendly smile, olive-green jacket, jeans. Front, three-quarter, side views, full body. [STYLE]
 ```
 
 ### Les décors (une seule fois)
@@ -83,7 +88,7 @@ Bright Montessori living room, child-eye-level view: low wooden shelf with a few
 Warm front entrance of a family home seen from a toddler's height, wooden door, coat hooks, soft daylight. Original stylized 3D animation, no people, no text.
 ```
 
-**À la fin de l'étape 1, tu as environ 13 images de référence.** Elles serviront pour **toute la série**.
+**À la fin de l'étape 1, tu as environ 14 images de référence.** Elles serviront pour **toute la série**.
 
 ---
 
@@ -118,7 +123,7 @@ L'agent Montage fournit la feuille de montage : ordre, durées, fondus, voix, so
 | Jour | Ce que tu fais |
 |---|---|
 | J1 | Images de référence : Alya, Amir, Maman, Papa (choisir les meilleures) |
-| J2 | Images de référence : Mamie, Papi, Ma, Bassi, Tata, Yanis, décors |
+| J2 | Images de référence : Mamie, Papi, Ma, Bassi, Tata, Tonton, Yanis, décors |
 | J3 | Images des scènes 1 à 9 |
 | J4 | Images des scènes 10 à 18 |
 | J5 | Animation des scènes 1 à 9 (Kling) |

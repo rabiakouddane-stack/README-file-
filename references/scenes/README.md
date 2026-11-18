@@ -21,3 +21,9 @@
 | 4 | S1E1/S1E1_scene04.png | MAHbRTk5DL8 | https://www.canva.com/M/MAHbRTk5DL8 | ✅ |
 | 5 | S1E1/S1E1_scene05.png | MAHbRtuGrws | https://www.canva.com/M/MAHbRtuGrws | ✅ (v3 : lumineux + nuit dehors) |
 | 6 | S1E1/S1E1_scene06.png | MAHbRhgf-mM | https://www.canva.com/M/MAHbRhgf-mM | ✅ (v3 : lumineux + nuit dehors) |
+| 7 | S1E1/S1E1_scene07.png | MAHbRl30x24 | https://www.canva.com/M/MAHbRl30x24 | ⏳ |
+| 8 | S1E1/S1E1_scene08.png | MAHbRjfYcrs | https://www.canva.com/M/MAHbRjfYcrs | ⏳ |
+| 9 | S1E1/S1E1_scene09.png | MAHbRuhs9t8 | https://www.canva.com/M/MAHbRuhs9t8 | ⏳ |
+| 10 | S1E1/S1E1_scene10.png | MAHbRubaHrk | https://www.canva.com/M/MAHbRubaHrk | ⏳ |
+| 11 | S1E1/S1E1_scene11.png | MAHbRt8ra54 | https://www.canva.com/M/MAHbRt8ra54 | ⏳ |
+| 12 | S1E1/S1E1_scene12.png | MAHbRmlqCTI | https://www.canva.com/M/MAHbRmlqCTI | ⏳ |

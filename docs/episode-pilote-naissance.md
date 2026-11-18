@@ -21,7 +21,7 @@ MOM: woman in her early 30s, gentle smile, warm brown eyes, light tan skin, long
 DAD: man in his early 30s, short dark hair, neat short beard, kind eyes, light-grey sweater.
 MAMIE (paternal grandmother): warm elderly woman, round kind face, wrinkled smile, cream hijab, beige long cardigan.
 PAPI (paternal grandfather): gentle elderly man, short white beard, round glasses, grey knitted beanie, brown knitted vest.
-MA (maternal grandmother): young-looking 58-year-old grandmother, sparkling dark eyes, warm smile, sage-green hijab, light cream button-up shirt, terracotta pleated trousers, flat loafers.
+MA (maternal grandmother): young-looking 58-year-old grandmother with a youthful smooth face, sparkling dark eyes, warm smile, sage-green hijab, light cream button-up shirt, terracotta pleated trousers, flat loafers.
 BASSI (maternal grandfather): 64-year-old grandfather, black hair with a few grey strands at the temples, thick black moustache, warm laugh lines, navy-blue t-shirt, blue jeans, sneakers, no hat.
 AUNT (Tata): young woman in her 20s, joyful expression, long dark wavy hair, mustard-yellow cardigan.
 YANIS (cousin, son of mom's brother): a 2-and-a-half-year-old toddler boy, short curly black hair, chubby cheeks, big cheerful smile, red hoodie, soft jeans, small sneakers.

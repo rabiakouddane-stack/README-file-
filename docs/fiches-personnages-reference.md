@@ -57,7 +57,7 @@ Character turnaround sheet of PAPI: gentle elderly grandfather, short white bear
 
 ### Ma (côté maman)
 ```
-Character turnaround sheet of MA: young-looking 58-year-old grandmother, sparkling dark eyes, warm smile, sage-green hijab, light cream button-up shirt, terracotta pleated trousers, flat loafers. Front, three-quarter, side views, full body. [STYLE]
+Character turnaround sheet of MA: young-looking 58-year-old grandmother with a youthful smooth face, sparkling dark eyes, warm smile, sage-green hijab, light cream button-up shirt, terracotta pleated trousers, flat loafers. Front, three-quarter, side views, full body. [STYLE]
 ```
 
 ### Bassi (côté maman)

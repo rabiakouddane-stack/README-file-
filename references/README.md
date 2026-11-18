@@ -13,8 +13,10 @@
 | **Papa, v1** | REF_PAPA_v1.png | **MAHbQjaOy1Y** | ✅ **CHOISI** |
 | **Mamie, v1** | REF_MAMIE_v1.png | **MAHbQlfmRNs** | ⏳ à valider |
 | **Papi, v1** | REF_PAPI_v1.png | **MAHbQjZ69ro** | ⏳ à valider |
-| **Ma, v1** | REF_MA_v1.png | **MAHbQvXcioM** | ⏳ à valider |
-| **Bassi, v1** | REF_BASSI_v1.png | **MAHbQvCZ0Q4** | ⏳ à valider |
+| Ma, v1 (robe longue) | REF_MA_v1.png | MAHbQvXcioM | ❌ refusée |
+| **Ma, v2 (58 ans, chemise et pantalon à pinces)** | REF_MA_v2.png | **MAHbQpga3w4** | ⏳ à valider |
+| Bassi, v1 (gilet) | REF_BASSI_v1.png | MAHbQvCZ0Q4 | ❌ refusée |
+| **Bassi, v2 (64 ans, jean et t-shirt)** | REF_BASSI_v2.png | **MAHbQlM-TDY** | ⏳ à valider |
 
 > Les agents réutilisent l'**ID média Canva** comme image de référence pour garder les personnages identiques.
 > Ces fichiers sont des aperçus en basse résolution. Les originaux sont dans Canva.

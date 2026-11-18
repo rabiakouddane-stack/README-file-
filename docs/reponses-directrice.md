@@ -68,3 +68,4 @@
 | Yanis | Peau claire, **cheveux châtains bouclés, libres** (non attachés) |
 | Yanis | Cheveux **longs jusqu'aux épaules** |
 | Amir | **Très peu de cheveux** (presque chauve, un léger duvet) |
+| Yanis | Cheveux **pas trop bouclés** : presque lisses, avec une légère ondulation aux pointes |

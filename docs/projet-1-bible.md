@@ -47,8 +47,8 @@ On termine par **« Et toi ? »** : une invitation à faire la même chose **en 
 | **Papa** | Joueur, rassurant | `DAD: man in his early 30s, short dark hair, neat short beard, kind eyes, light-grey sweater` |
 | **Mamie** (côté papa) | La cuisine, la transmission, garde Alya | `MAMIE: warm elderly woman, round kind face, wrinkled smile, cream hijab, beige long cardigan` |
 | **Papi** (côté papa) | Les photos de famille, le jardin, la patience | `PAPI: gentle elderly man, short white beard, round glasses, grey knitted beanie, brown knitted vest` |
-| **Ma** (côté maman) | La conteuse, les câlins, les gâteaux | `MA: small elderly woman, sparkling dark eyes, sage-green hijab, soft terracotta long dress` |
-| **Bassi** (côté maman) | Les promenades, les rires, les petites blagues | `BASSI: tall grandfather in his early 60s, black hair, thick black moustache, warm laugh lines, navy cardigan, no hat` |
+| **Ma** (côté maman) | La conteuse, les câlins, les gâteaux | `MA: young-looking 58-year-old grandmother, sparkling dark eyes, warm smile, sage-green hijab, light cream button-up shirt, terracotta pleated trousers, flat loafers` |
+| **Bassi** (côté maman) | Les promenades, les rires, les petites blagues | `BASSI: 64-year-old grandfather, black hair with a few grey strands at the temples, thick black moustache, warm laugh lines, navy-blue t-shirt, blue jeans, sneakers, no hat` |
 | **Tata** | Le jeu, les visites surprises | `AUNT: young woman in her 20s, joyful expression, long dark wavy hair, mustard-yellow cardigan` |
 | **Yanis** (le cousin, 2 ans et demi, fils de Tonton) | Presque le même âge qu'Alya : ils jouent ensemble, apprennent à partager, se disputent et se réconcilient | `YANIS (cousin, son of mom's brother): a 2-and-a-half-year-old toddler boy, short curly black hair, chubby cheeks, big cheerful smile, red hoodie, soft jeans, small sneakers` |
 | **Tonton** (frère de maman, papa de Yanis) | Les repas en famille, le jeu, le partage | `UNCLE: man in his late 20s, short black hair, short trimmed beard, big friendly smile, olive-green jacket` |

@@ -61,3 +61,5 @@
 | Règle | **Images colorées, mais rythme calme** : on garde des plans lents, sans flashs, et la série reste sans musique. |
 | Choix final | **Version 2** (couleurs douces mais présentes) pour Alya et Amir. Elle sert de modèle de style pour toute la famille. |
 | Maman | **Cheveux noirs et longs**, toujours **en jean et en pull** |
+| Ma | **58 ans**, jeune grand-mère, foulard, **chemise et pantalon à pinces** |
+| Bassi | **64 ans**, **jean et t-shirt** |

@@ -76,3 +76,4 @@
 | Décors | **Plus de couleurs variées** (bleu, vert, rose, corail, rouge) et **beaucoup moins de jaune et de beige**. Lumière du jour neutre, pas dorée. |
 | Décors | **C'est pour des enfants** : univers ludique et joyeux (formes arrondies, jouets colorés, dessins d'enfants au mur), pas une maison de catalogue pour adultes |
 | Maison des grands-parents | **Cuisine moderne** (pas traditionnelle), toujours colorée pour les enfants |
+| Décors | Ajout de **la chambre des enfants** (Alya et Amir), **aménagée Montessori** : c'est là que les enfants jouent |

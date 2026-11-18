@@ -53,3 +53,9 @@
 | Bassi | **Cheveux noirs, moustache noire, sans casquette** |
 | Papi | Barbe blanche, lunettes, **avec un bonnet** |
 | Nouveau personnage | **Yanis, le cousin, 2 ans et demi**, fils de **Tonton** (le frère de maman) |
+
+## Style visuel (18/11/2026)
+| Sujet | Décision |
+|---|---|
+| Couleurs | La directrice veut **des couleurs vives et lumineuses** (exemple montré : une miniature de dessin animé 3D très saturée, plage ensoleillée, grands yeux expressifs). On **ne copie pas** le personnage de l'exemple. |
+| Règle | **Images colorées, mais rythme calme** : on garde des plans lents, sans flashs, et la série reste sans musique. |

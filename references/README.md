@@ -27,6 +27,7 @@
 | Yanis, v3 (presque lisse, aux épaules) | REF_YANIS_v3.png | MAHbQ32jI_M | ❌ 2 cm trop long |
 | Yanis, v4 (légèrement ondulé) | REF_YANIS_v4.png | MAHbQx-72vg | ❌ |
 | **Yanis, v5 (lisse, juste au-dessus des épaules)** | REF_YANIS_v5.png | **MAHbQ2hpF3U** | ⏳ à valider |
+| **PHOTO DE FAMILLE (les 11 personnages)** | PHOTO_FAMILLE_v1.png | **MAHbQ9hAXtM** | ⏳ à valider |
 
 > Les agents réutilisent l'**ID média Canva** comme image de référence pour garder les personnages identiques.
 > Ces fichiers sont des aperçus en basse résolution. Les originaux sont dans Canva.

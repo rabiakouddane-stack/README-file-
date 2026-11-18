@@ -73,3 +73,4 @@
 | Tonton | Cheveux **très courts** |
 | Yanis | Cheveux **lisses** (sans boucles), juste au-dessus des épaules |
 | Yanis | Couleur de cheveux **comme Amir** (brun foncé) |
+| Décors | **Plus de couleurs variées** (bleu, vert, rose, corail, rouge) et **beaucoup moins de jaune et de beige**. Lumière du jour neutre, pas dorée. |

@@ -78,7 +78,7 @@ Une voix **féminine, douce et posée** qui décrit, nomme les émotions et pose
 - Pour les moments forts, on utilise **le silence** et une respiration (c'est très puissant).
 
 ## 5. Bible visuelle
-- **Style** : `original stylized 3D animation, soft rounded shapes, warm natural light, soft materials (wood, linen, wool), shallow depth of field, cinematic quality`
+- **Style** : `original stylized 3D animation, soft rounded shapes, clear neutral daylight (not golden), varied cheerful colors (soft blue, green, pink, coral, red), little yellow or beige, soft materials (wood, linen, wool), shallow depth of field, cinematic quality`
 - **Palette** : vert sauge #9CAF88, crème #F5EFE6, bois clair #D9B99B, terracotta douce #D98E73, bleu ciel #A7C7E7, jaune moutarde #E1B84B.
 - **Lieux** : la maison Montessori (salon, cuisine avec tour d'observation, chambre avec lit au sol), **la maison des grands-parents** (cuisine chaleureuse, jardin avec potager), le parc.
 - **Caméra** : à hauteur d'enfant, mouvements lents, plans de 5 à 8 s.

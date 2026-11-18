@@ -1,0 +1,80 @@
+# Guide de production Kling : épisode S1E1 « Bienvenue Amir ! »
+
+> **Ton rôle** : pour chaque scène, télécharger l'image depuis Canva, la mettre dans Kling, coller le texte, puis lancer.
+> **Mon rôle** : préparer les images, les textes, les réglages, les voix et le plan de montage.
+
+---
+
+## 1. Réglages Kling (les mêmes pour toutes les scènes)
+
+1. Ouvre **Kling AI**, puis **Vidéo IA → Image vers vidéo** (*Image to Video*).
+2. **Importe l'image** de la scène, téléchargée depuis Canva : bouton « Télécharger » en haut à droite de l'image.
+3. **Format** : 16:9.
+4. **Durée** : **5 s** (sauf indication contraire dans le tableau).
+5. **Mode** : *Standard* pour tester. Garde *Professionnel* pour les 2 scènes fortes (15 et 17), si tu as assez de crédits.
+6. **Créativité / Pertinence** : place le curseur **vers « Pertinence »**, à environ 0,6, pour que Kling respecte bien l'image.
+7. **Prompt négatif** (à coller à chaque fois) :
+   ```
+   fast motion, camera shake, morphing face, extra fingers, deformed hands, changing clothes, changing hair, text, watermark, flicker, scary
+   ```
+8. **Pas de son dans Kling** : les voix sont faites à part, avec ElevenLabs.
+9. Télécharge la vidéo et nomme-la `S1E1_scene01.mp4`, `S1E1_scene02.mp4`, etc.
+
+> 💡 **Astuce crédits** : Kling donne des crédits gratuits chaque jour. Lance **2 ou 3 scènes par jour** avec les crédits gratuits, et ne paie que si tu es pressée. Si une animation est ratée (visage qui change, mains bizarres), relance une seule fois, puis passe à la suivante et signale-la-moi.
+
+---
+
+## 2. Les 18 scènes : image et texte à coller
+
+> Les liens vers les images sont dans [`references/scenes/README.md`](../references/scenes/README.md) (colonne « ID média Canva »), et je te les donne aussi dans la conversation.
+
+| # | Durée | Texte à coller dans Kling (prompt) |
+|---|---|---|
+| 1 | 5 s | `The toddler girl gently keeps her hands on her mother's pregnant belly, both smile softly, the mother breathes calmly, very slow camera push-in, calm and tender` |
+| 2 | 5 s | `A tiny movement under the girl's hand on the belly, her eyes widen in happy surprise, her mouth opens slightly, static camera, gentle` |
+| 3 | 5 s | `The mother slowly strokes the girl's curly hair and smiles tenderly, the girl leans against her, slow and soft motion, static camera` |
+| 4 | 5 s | `The girl leans forward and gives a gentle kiss on the belly, the mother laughs softly, slow natural movement, static camera` |
+| 5 | 5 s | `The father finishes putting on his coat, the grandmother at the door opens her arms with a warm smile, slow natural movement, static camera` |
+| 6 | 5 s | `The girl hugs her plush and looks out of the window, the grandmother kneels beside her and gently strokes her back, very slow, calm evening mood` |
+| 7 | 5 s | `The grandmother slowly turns a page of the photo album, the girl points at a photo and smiles, soft lamp light, static camera` |
+| 8 | 5 s | `The grandmother lowers her phone and smiles at the girl, the girl claps her hands happily twice, slow natural movement` |
+| 9 | 5 s | `The girl draws slowly with a crayon on the paper, the grandmother watches and smiles, calm, static camera` |
+| 10 | 5 s | `The girl walks slowly down the corridor holding her father's hand, holding her drawing, the grandmother follows, slow tracking camera from behind` |
+| 11 | 5 s | `The door slowly opens, revealing the mother in the hospital bed holding the newborn, she looks up and smiles, slow camera push-in` |
+| 12 | 5 s | `The girl peeks shyly from behind her father's legs, then slowly takes a small step forward, static camera` |
+| 13 | 5 s | `The father gently lifts the girl and sits her on the edge of the bed, she leans in slowly to look at the baby, slow camera push-in` |
+| 14 | 5 s | `The mother gently shows the baby's tiny hand, the girl slowly reaches out one finger, very slow and delicate movement` |
+| 15 ⭐ | **10 s** (Pro) | `The baby's tiny hand slowly closes around the girl's finger, her face lights up with wonder, extremely slow camera push-in, very tender, calm` |
+| 16 | 5 s | `The girl hands her drawing toward the baby, the father smiles and holds out a wrapped gift box, slow natural movement` |
+| 17 ⭐ | **10 s** (Pro) | `The girl hugs her new baby doll tightly with shining eyes, the family enters the room behind and smiles softly, gentle natural movements, slow camera pull-back` |
+| 18 | 5 s | `The girl holding her doll smiles happily at the camera, the mother and baby beside her, very slight movement, static camera, calm ending` |
+
+---
+
+## 3. Les voix (ElevenLabs) : je prépare le fichier
+
+Je te préparerai un fichier `voix-S1E1.md` avec :
+- chaque réplique, dans l'ordre des scènes ;
+- la voix choisie (narratrice douce, voix de petite fille pour Alya, une voix pour maman, papa, Ma et Bassi) ;
+- les pauses et l'intonation.
+
+Toi, tu génères les fichiers audio et tu les nommes `voix_01.mp3`, `voix_02.mp3`, etc.
+
+## 4. Le montage (CapCut) : je prépare la feuille
+
+Une fois les 18 vidéos et les voix prêtes :
+- l'ordre des clips et leur durée ;
+- les fondus doux entre les scènes ;
+- les voix placées scène par scène, et **aucune musique**, seulement quelques sons doux (porte, pas, rire de bébé) ;
+- les sous-titres en français ;
+- la version **Short** (9:16, 45 s) : scènes 2, 8, 11, 13, 15, 17, 18.
+
+---
+
+## 5. Suivi de production
+
+| Scène | Image grand format | Animation Kling | Voix | Montée |
+|---|---|---|---|---|
+| 1 à 6 | ✅ prêtes (à valider) | – | – | – |
+| 7 à 12 | – | – | – | – |
+| 13 à 18 | – | – | – | – |

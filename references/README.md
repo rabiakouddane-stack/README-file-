@@ -40,6 +40,9 @@
 
 | Décor | Fichier | ID média Canva | Statut |
 |---|---|---|---|
-| **Salon Montessori** | DECOR_SALON_v1.png | **MAHbQz3588A** | ⏳ à valider |
-| **Entrée de la maison** | DECOR_ENTREE_v1.png | **MAHbQyf5o2s** | ⏳ à valider |
-| **Maison des grands-parents (cuisine et jardin)** | DECOR_MAISON_GRANDS-PARENTS_v1.png | **MAHbQ0onWaM** | ⏳ à valider |
+| Salon v1 | DECOR_SALON_v1.png | MAHbQz3588A | ❌ trop jaune |
+| Salon v2 (moins de jaune) | DECOR_SALON_v2.png | MAHbRL0kS7Q | ❌ trop adulte |
+| Entrée v1 | DECOR_ENTREE_v1.png | MAHbQyf5o2s | ❌ trop jaune |
+| Entrée v2 (moins de jaune) | DECOR_ENTREE_v2.png | MAHbRKfzTGM | ❌ trop adulte |
+| Maison des grands-parents v1 | DECOR_MAISON_GRANDS-PARENTS_v1.png | MAHbQ0onWaM | ❌ trop jaune |
+| Maison des grands-parents v2 (moins de jaune) | DECOR_MAISON_GRANDS-PARENTS_v2.png | MAHbRBdKLgg | ❌ trop adulte |

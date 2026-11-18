@@ -59,3 +59,4 @@
 |---|---|
 | Couleurs | La directrice veut **des couleurs vives et lumineuses** (exemple montré : une miniature de dessin animé 3D très saturée, plage ensoleillée, grands yeux expressifs). On **ne copie pas** le personnage de l'exemple. |
 | Règle | **Images colorées, mais rythme calme** : on garde des plans lents, sans flashs, et la série reste sans musique. |
+| Choix final | **Version 2** (couleurs douces mais présentes) pour Alya et Amir. Elle sert de modèle de style pour toute la famille. |

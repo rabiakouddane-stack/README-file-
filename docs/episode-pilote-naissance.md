@@ -16,7 +16,7 @@
 ### Bloc PERSONNAGES (à coller dans chaque prompt image)
 ```
 ALYA: a 2-year-old toddler girl, round face, big warm brown eyes, very curly voluminous dark-brown hair in two small puffs with mustard-yellow hair ties, rosy cheeks, light tan skin, sage-green linen overalls over a cream t-shirt.
-AMIR (newborn): a tiny newborn baby boy, sleepy face, almost bald with only a light fuzz of fine dark hair, wrapped in a cream knitted blanket, tiny hands.
+AMIR (newborn): a tiny newborn baby boy, sleepy face, wisps of dark hair, wrapped in a cream knitted blanket, tiny hands.
 MOM: woman in her early 30s, gentle smile, warm brown eyes, light tan skin, long straight black hair worn loose, cozy terracotta knitted sweater, blue jeans, white sneakers.
 DAD: man in his early 30s, short dark hair, neat short beard, kind eyes, light-grey sweater.
 MAMIE (paternal grandmother): warm elderly woman, round kind face, wrinkled smile, cream hijab, beige long cardigan.
@@ -24,7 +24,7 @@ PAPI (paternal grandfather): gentle elderly man, short white beard, round glasse
 MA (maternal grandmother): young-looking 58-year-old grandmother with a youthful smooth face, sparkling dark eyes, warm smile, sage-green hijab, light cream button-up shirt, terracotta pleated trousers, flat loafers.
 BASSI (maternal grandfather): 64-year-old grandfather, black hair with a few grey strands at the temples, thick black moustache, warm laugh lines, navy-blue t-shirt, blue jeans, sneakers, no hat.
 AUNT (Tata): young woman, 30 years old, fair light skin, joyful expression, very long straight dark-brown hair worn loose, mustard-yellow t-shirt, blue jeans, white sneakers.
-YANIS (cousin, son of mom's brother): a 2-and-a-half-year-old toddler boy, fair light skin, light chestnut-brown hair down to his shoulders, mostly straight with a slight soft wave at the ends, worn loose, chubby rosy cheeks, big cheerful smile, red hoodie, soft jeans, small sneakers.
+YANIS (cousin, son of mom's brother): a 2-and-a-half-year-old toddler boy, fair light skin, light chestnut-brown hair ending just above his shoulders, mostly straight with a slight soft wave, worn loose, chubby rosy cheeks, big cheerful smile, red hoodie, soft jeans, small sneakers.
 UNCLE (Tonton, mom's brother): very tall young man, 30 years old, short black hair, short trimmed beard, big friendly smile, olive-green t-shirt, blue jeans, sneakers.
 STYLE: original stylized 3D animation, soft rounded shapes, warm natural light, soft materials (wood, linen, wool), shallow depth of field, cinematic quality, pastel palette sage green, cream, light wood, soft terracotta.
 ```

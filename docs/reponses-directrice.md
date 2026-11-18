@@ -67,5 +67,6 @@
 | Tonton | **Grand**, **30 ans**, **t-shirt et jean** |
 | Yanis | Peau claire, **cheveux châtains bouclés, libres** (non attachés) |
 | Yanis | Cheveux **longs jusqu'aux épaules** |
-| Amir | **Très peu de cheveux** (presque chauve, un léger duvet) |
 | Yanis | Cheveux **pas trop bouclés** : presque lisses, avec une légère ondulation aux pointes |
+| Amir | **On garde les cheveux de la version 2** (correction : la demande « moins de cheveux » concernait Yanis) |
+| Yanis | Cheveux **2 cm plus courts** : juste au-dessus des épaules |

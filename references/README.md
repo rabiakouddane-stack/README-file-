@@ -6,8 +6,8 @@
 | **Alya (2 ans), v2 en couleur** | REF_ALYA_v2_couleur.png | **MAHbQt4eiig** | ✅ **CHOISIE** |
 | Alya (2 ans), v3 couleurs vives | REF_ALYA_v3_vive.png | MAHbQgQtbtU | non retenue |
 | Amir (nouveau-né), v1 | REF_AMIR_nouveau-ne_v1.png | MAHbQvt4mWg | ❌ trop réaliste |
-| Amir (nouveau-né), v2 en couleur | REF_AMIR_nouveau-ne_v2_couleur.png | MAHbQoNCjGY | remplacée (trop de cheveux) |
-| **Amir (nouveau-né), v4 peu de cheveux** | REF_AMIR_nouveau-ne_v4_peu-de-cheveux.png | **MAHbQ0A8NKI** | ⏳ à valider |
+| **Amir (nouveau-né), v2 en couleur** | REF_AMIR_nouveau-ne_v2_couleur.png | **MAHbQoNCjGY** | ✅ **CHOISIE** |
+| Amir (nouveau-né), v4 peu de cheveux | REF_AMIR_nouveau-ne_v4_peu-de-cheveux.png | MAHbQ0A8NKI | ❌ non retenue |
 | Amir (nouveau-né), v3 couleurs vives | REF_AMIR_nouveau-ne_v3_vive.png | MAHbQnMoFg0 | non retenue |
 | Maman, v1 (robe, chignon) | REF_MAMAN_v1.png | MAHbQiw-PiU | ❌ refusée |
 | **Maman, v2 (cheveux noirs longs, jean et pull)** | REF_MAMAN_v2.png | **MAHbQkFFMoo** | ✅ **CHOISIE** |
@@ -22,7 +22,8 @@
 | **Tata, v1 (30 ans, cheveux très longs, t-shirt et jean)** | REF_TATA_v1.png | **MAHbQ-bs2P4** | ⏳ à valider |
 | **Tonton, v1 (grand, 30 ans, t-shirt et jean)** | REF_TONTON_v1.png | **MAHbQ9oC2w0** | ⏳ à valider |
 | Yanis, v1 (cheveux courts) | REF_YANIS_v1.png | MAHbQyPcOGk | ❌ remplacée |
-| **Yanis, v2 (cheveux jusqu'aux épaules)** | REF_YANIS_v2.png | **MAHbQ_zea54** | ⏳ à valider |
+| Yanis, v2 (trop bouclé) | REF_YANIS_v2.png | MAHbQ_zea54 | ❌ |
+| Yanis, v3 (presque lisse, aux épaules) | REF_YANIS_v3.png | MAHbQ32jI_M | ❌ 2 cm trop long |
 
 > Les agents réutilisent l'**ID média Canva** comme image de référence pour garder les personnages identiques.
 > Ces fichiers sont des aperçus en basse résolution. Les originaux sont dans Canva.

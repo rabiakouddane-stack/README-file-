@@ -31,7 +31,7 @@ Same character as the reference image. Expression sheet with 6 head close-ups: h
 
 ### Amir (nouveau-né)
 ```
-Character sheet of AMIR, a tiny newborn baby boy: sleepy round face, almost bald with only a light fuzz of fine dark hair, chubby cheeks, tiny hands, wrapped in a cream knitted blanket. Views: sleeping in arms, eyes open looking up, close-up of tiny hand. Same baby in every view. [STYLE]
+Character sheet of AMIR, a tiny newborn baby boy: sleepy round face, wisps of dark hair, chubby cheeks, tiny hands, wrapped in a cream knitted blanket. Views: sleeping in arms, eyes open looking up, close-up of tiny hand. Same baby in every view. [STYLE]
 ```
 
 ### Maman
@@ -72,7 +72,7 @@ Character turnaround sheet of AUNT: young woman, 30 years old, fair light skin, 
 
 ### Yanis (le cousin, 2 ans et demi)
 ```
-Character turnaround sheet of YANIS: a 2-and-a-half-year-old toddler boy, fair light skin, light chestnut-brown hair down to his shoulders, mostly straight with a slight soft wave at the ends, worn loose, chubby rosy cheeks, big cheerful smile, red hoodie, soft jeans, small sneakers. Front, three-quarter, side views, full body. [STYLE]
+Character turnaround sheet of YANIS: a 2-and-a-half-year-old toddler boy, fair light skin, light chestnut-brown hair ending just above his shoulders, mostly straight with a slight soft wave, worn loose, chubby rosy cheeks, big cheerful smile, red hoodie, soft jeans, small sneakers. Front, three-quarter, side views, full body. [STYLE]
 ```
 
 ### Tonton (frère de maman, papa de Yanis)

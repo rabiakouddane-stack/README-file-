@@ -34,7 +34,7 @@ On termine par **« Et toi ? »** : une invitation à faire la même chose **en 
 ### Amir : le petit frère (de 0 à 2 ans au fil des saisons)
 | Âge | Description pour les prompts | Ce qu'il sait faire |
 |---|---|---|
-| Nouveau-né | `AMIR (newborn): a tiny newborn baby boy, sleepy face, almost bald with only a light fuzz of fine dark hair, wrapped in a cream knitted blanket, tiny hands` | dormir, attraper un doigt, bâiller |
+| Nouveau-né | `AMIR (newborn): a tiny newborn baby boy, sleepy face, wisps of dark hair, wrapped in a cream knitted blanket, tiny hands` | dormir, attraper un doigt, bâiller |
 | 3 mois | `AMIR (3 months): small chubby baby boy, big dark eyes, wisps of dark hair, light-blue onesie` | sourire, gazouiller, suivre du regard |
 | 6 mois | `AMIR (6 months): chubby baby boy sitting with support, big dark eyes, light-blue onesie, white bib with a small star` | s'asseoir, rire, attraper |
 | 9 mois | `AMIR (9 months): chubby baby boy crawling, fine dark hair, light-blue onesie, white star bib` | ramper, taper des mains, « ba-ba » |
@@ -50,7 +50,7 @@ On termine par **« Et toi ? »** : une invitation à faire la même chose **en 
 | **Ma** (côté maman) | La conteuse, les câlins, les gâteaux | `MA: young-looking 58-year-old grandmother with a youthful smooth face, sparkling dark eyes, warm smile, sage-green hijab, light cream button-up shirt, terracotta pleated trousers, flat loafers` |
 | **Bassi** (côté maman) | Les promenades, les rires, les petites blagues | `BASSI: 64-year-old grandfather, black hair with a few grey strands at the temples, thick black moustache, warm laugh lines, navy-blue t-shirt, blue jeans, sneakers, no hat` |
 | **Tata** | Le jeu, les visites surprises | `AUNT: young woman, 30 years old, fair light skin, joyful expression, very long straight dark-brown hair worn loose, mustard-yellow t-shirt, blue jeans, white sneakers` |
-| **Yanis** (le cousin, 2 ans et demi, fils de Tonton) | Presque le même âge qu'Alya : ils jouent ensemble, apprennent à partager, se disputent et se réconcilient | `YANIS (cousin, son of mom's brother): a 2-and-a-half-year-old toddler boy, fair light skin, light chestnut-brown hair down to his shoulders, mostly straight with a slight soft wave at the ends, worn loose, chubby rosy cheeks, big cheerful smile, red hoodie, soft jeans, small sneakers` |
+| **Yanis** (le cousin, 2 ans et demi, fils de Tonton) | Presque le même âge qu'Alya : ils jouent ensemble, apprennent à partager, se disputent et se réconcilient | `YANIS (cousin, son of mom's brother): a 2-and-a-half-year-old toddler boy, fair light skin, light chestnut-brown hair ending just above his shoulders, mostly straight with a slight soft wave, worn loose, chubby rosy cheeks, big cheerful smile, red hoodie, soft jeans, small sneakers` |
 | **Tonton** (frère de maman, papa de Yanis) | Les repas en famille, le jeu, le partage | `UNCLE: very tall young man, 30 years old, short black hair, short trimmed beard, big friendly smile, olive-green t-shirt, blue jeans, sneakers` |
 | **Les amis** (une petite voisine, par exemple) | La sociabilité | *À créer quand ils apparaissent* |
 

@@ -2,7 +2,8 @@
 
 | Planche | Fichier | ID média Canva | Statut |
 |---|---|---|---|
-| **Scènes 1 à 6** | S1E1_planche_scenes_01-06_v1.png | **MAHbREzrl7k** | ⏳ à valider |
+| Scènes 1 à 6, v1 | S1E1_planche_scenes_01-06_v1.png | MAHbREzrl7k | ❌ Mamie au lieu de Ma |
+| Scènes 1 à 6, v2 (Ma) | S1E1_planche_scenes_01-06_v2.png | MAHbRESfoD4 | ❌ salopette verte |
 | Scènes 7 à 12 | – | – | à faire |
 | Scènes 13 à 18 | – | – | à faire |
 

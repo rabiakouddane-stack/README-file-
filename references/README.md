@@ -5,7 +5,8 @@
 | Personnage | Fichier | ID média Canva | Statut |
 |---|---|---|---|
 | Alya (2 ans), v1 | REF_ALYA_v1.png | MAHbQolCjMs | remplacée |
-| **Alya (2 ans), v2 en couleur** | REF_ALYA_v2_couleur.png | **MAHbQt4eiig** | ✅ **CHOISIE** |
+| Alya (2 ans), v2 en couleur (salopette verte) | REF_ALYA_v2_couleur.png | MAHbQt4eiig | remplacée |
+| **Alya (2 ans), v4 salopette rouge** | REF_ALYA_v4_salopette-rouge.png | **MAHbRKTylAE** | ✅ **CHOISIE** |
 | Alya (2 ans), v3 couleurs vives | REF_ALYA_v3_vive.png | MAHbQgQtbtU | non retenue |
 | Amir (nouveau-né), v1 | REF_AMIR_nouveau-ne_v1.png | MAHbQvt4mWg | ❌ trop réaliste |
 | **Amir (nouveau-né), v2 en couleur** | REF_AMIR_nouveau-ne_v2_couleur.png | **MAHbQoNCjGY** | ✅ **CHOISIE** |

@@ -19,7 +19,7 @@
 | 2 | S1E1/S1E1_scene02.png | MAHbRc7Gnwo | https://www.canva.com/M/MAHbRc7Gnwo | ✅ |
 | 3 | S1E1/S1E1_scene03.png | MAHbRX3v6H0 | https://www.canva.com/M/MAHbRX3v6H0 | ✅ |
 | 4 | S1E1/S1E1_scene04.png | MAHbRTk5DL8 | https://www.canva.com/M/MAHbRTk5DL8 | ✅ |
-| 5 | S1E1/S1E1_scene05.png | MAHbRtuGrws | https://www.canva.com/M/MAHbRtuGrws | ✅ (v3 : lumineux + nuit dehors) |
+| 5 | S1E1/S1E1_scene05.png | MAHbRv1IRdY | https://www.canva.com/M/MAHbRv1IRdY | ⏳ (v4 : lumière plus douce) |
 | 6 | S1E1/S1E1_scene06.png | MAHbRhgf-mM | https://www.canva.com/M/MAHbRhgf-mM | ✅ (v3 : lumineux + nuit dehors) |
 | 7 | S1E1/S1E1_scene07.png | MAHbRl30x24 | https://www.canva.com/M/MAHbRl30x24 | ✅ |
 | 8 | S1E1/S1E1_scene08.png | MAHbRjfYcrs | https://www.canva.com/M/MAHbRjfYcrs | ✅ |

@@ -78,5 +78,5 @@ Une fois les 18 vidéos et les voix prêtes :
 | Scène | Image grand format | Animation Kling | Voix | Montée |
 |---|---|---|---|---|
 | 1 à 6 | ✅ validées | – | – | – |
-| 7 à 12 | ⏳ prêtes (à valider) | – | – | – |
-| 13 à 18 | – | – | – | – |
+| 7 à 12 | ✅ validées | – | – | – |
+| 13 à 18 | ⏳ prêtes (à valider) | – | – | – |

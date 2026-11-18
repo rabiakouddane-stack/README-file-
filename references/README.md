@@ -26,7 +26,8 @@
 | Yanis, v2 (trop bouclé) | REF_YANIS_v2.png | MAHbQ_zea54 | ❌ |
 | Yanis, v3 (presque lisse, aux épaules) | REF_YANIS_v3.png | MAHbQ32jI_M | ❌ 2 cm trop long |
 | Yanis, v4 (légèrement ondulé) | REF_YANIS_v4.png | MAHbQx-72vg | ❌ |
-| **Yanis, v5 (lisse, juste au-dessus des épaules)** | REF_YANIS_v5.png | **MAHbQ2hpF3U** | ⏳ à valider |
+| Yanis, v5 (lisse, châtain) | REF_YANIS_v5.png | MAHbQ2hpF3U | ❌ couleur |
+| **Yanis, v6 (lisse, brun foncé comme Amir)** | REF_YANIS_v6.png | **MAHbQ1uP7Yo** | ⏳ à valider |
 | **PHOTO DE FAMILLE (les 11 personnages)** | PHOTO_FAMILLE_v1.png | **MAHbQ9hAXtM** | ⏳ à valider |
 
 > Les agents réutilisent l'**ID média Canva** comme image de référence pour garder les personnages identiques.

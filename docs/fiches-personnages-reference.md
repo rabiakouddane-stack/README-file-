@@ -72,12 +72,12 @@ Character turnaround sheet of AUNT: young woman, 30 years old, fair light skin, 
 
 ### Yanis (le cousin, 2 ans et demi)
 ```
-Character turnaround sheet of YANIS: a 2-and-a-half-year-old toddler boy, fair light skin, light chestnut-brown hair ending just above his shoulders, mostly straight with a slight soft wave, worn loose, chubby rosy cheeks, big cheerful smile, red hoodie, soft jeans, small sneakers. Front, three-quarter, side views, full body. [STYLE]
+Character turnaround sheet of YANIS: a 2-and-a-half-year-old toddler boy, fair light skin, completely straight smooth light chestnut-brown hair ending just above his shoulders, worn loose, chubby rosy cheeks, big cheerful smile, red hoodie, soft jeans, small sneakers. Front, three-quarter, side views, full body. [STYLE]
 ```
 
 ### Tonton (frère de maman, papa de Yanis)
 ```
-Character turnaround sheet of UNCLE: very tall young man, 30 years old, short black hair, short trimmed beard, big friendly smile, olive-green t-shirt, blue jeans, sneakers. Front, three-quarter, side views, full body. [STYLE]
+Character turnaround sheet of UNCLE: very tall young man, 30 years old, very short black hair (neat short crop), short trimmed beard, big friendly smile, olive-green t-shirt, blue jeans, sneakers. Front, three-quarter, side views, full body. [STYLE]
 ```
 
 ### Les décors (une seule fois)

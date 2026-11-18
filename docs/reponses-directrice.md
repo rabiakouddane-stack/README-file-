@@ -70,3 +70,5 @@
 | Yanis | Cheveux **pas trop bouclés** : presque lisses, avec une légère ondulation aux pointes |
 | Amir | **On garde les cheveux de la version 2** (correction : la demande « moins de cheveux » concernait Yanis) |
 | Yanis | Cheveux **2 cm plus courts** : juste au-dessus des épaules |
+| Tonton | Cheveux **très courts** |
+| Yanis | Cheveux **lisses** (sans boucles), juste au-dessus des épaules |

@@ -7,12 +7,28 @@
 | Sujet | Décision |
 |---|---|
 | Temps disponible | **1 h par jour** (environ 7 h par semaine) |
-| Budget outils | *Pas encore donné* |
-| Nouveau besoin | **Produits qui rapportent de l'argent** : plannings, fiches de coloriage, tout ce qui peut se vendre (voir [produits-a-vendre.md](./produits-a-vendre.md)) |
-| Langue | **Français**. Une autre langue = **une vidéo séparée** (version doublée), jamais plusieurs langues mélangées dans une même vidéo. *(à confirmer, voir Q-R2)* |
+| Budget outils | voir ci-dessous (50 € maximum) |
+| Nouveau besoin | Produits à vendre (plannings, coloriages) → devenu le **Projet 4, séparé** (voir plus bas) |
+| Langue | P1 : **français**. Une autre langue = **une vidéo séparée**. |
 | Style « Disney » | **S'inspirer** de la qualité et de l'émotion, **sans copier** (personnages, style et musique 100 % originaux) |
 | Validation religieuse (P2, P3) | **La directrice valide elle-même**, avec le Gardien religieux (agent) qui prépare les sources. Recommandation : pour les points sensibles ou divergents, demander l'avis d'une personne de science extérieure. |
-| Personnages P1 | **Une fille de 2 ans et son petit frère de 9 mois** |
+| Personnages P1 | Une fille de 2 ans et son petit frère (prénoms : voir ci-dessous) |
 | Thèmes P1 | **Fraternité, amour, éducation** |
 | Pédagogie | **Méthode Montessori** |
 | Visages | Oui pour le P1 (personnages expressifs). *P2 à confirmer.* |
+
+## Réponses du 18/11/2026 (deuxième série)
+
+| Sujet | Décision |
+|---|---|
+| Prénoms | **Alya** (fille, 2 ans, **cheveux bouclés**) et **Amir** (le petit frère) |
+| Premier épisode | **La naissance et l'arrivée d'Amir à la maison** → `docs/episode-pilote-naissance.md`. Amir grandit au fil des saisons. |
+| Famille | Visages montrés. **Famille élargie** : grands-parents, tata, amis… Objectif : **renforcer le lien familial**. |
+| Musique P1 | **Aucune musique : seulement les voix** (et des sons réels discrets) |
+| Budget | **50 € par mois maximum**, outils gratuits en priorité → `docs/outils-budget-50.md` |
+| Produits | **Projet séparé** (P4), pas lié aux vidéos, lancé plus tard |
+| Boutique et statut | Ni boutique ni statut pour l'instant |
+| P2 : âge | **Plus de 4 ans** |
+| P2 : langues | **Arabe et anglais** (une vidéo séparée par langue) ; français à confirmer |
+| P2 : visages | **Oui** pour les enfants et les animaux (jamais les prophètes) |
+| P2 : musique | Réponse « oui » : à préciser (avec ou sans musique ?) |

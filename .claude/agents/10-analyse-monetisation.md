@@ -11,6 +11,6 @@ RAPPORT HEBDOMADAIRE (une page maximum, en français simple)
 - Revenus par source et progression vers l'objectif.
 
 MONÉTISATION
-- Pour chaque vidéo ou fiche, propose un produit lié (coloriage, routine, cahier de sourate, planner).
+- Les produits (P4) sont un projet séparé : propose-les seulement quand la directrice lancera le P4.
 - Suis les seuils (YPP, Creator Rewards) et alerte quand ils sont atteints.
 - Propose des partenaires compatibles avec les valeurs de la directrice (liste noire respectée).

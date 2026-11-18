@@ -1,16 +1,12 @@
 # Questionnaire complet
 
-## 🔴 QUESTIONS RESTANTES (après tes réponses du 18/11)
-- **Q-R1** Les prénoms : je propose provisoirement **Lina et Adam**. Autres idées : Nour et Ilyan, Maya et Sami, Inès et Rayan, Yasmine et Noam. Ton choix, ou tes propres prénoms ?
-- **Q-R2** Langue : j'ai compris « français uniquement, et si on fait une autre langue, c'est une vidéo séparée ». C'est bien ça ? Pour le projet Coran enfants aussi (au départ, tu voulais AR/FR/EN) ?
-- **Q-R3** Les parents apparaissent-ils entièrement (visage) ? La maman porte-t-elle un foulard ? La famille est-elle visiblement musulmane ou neutre ?
-- **Q-R4** Musique pour le projet 1 : instrumentale douce, chansons, ou seulement des sons réels et la voix ?
-- **Q-R5** Budget mensuel pour les outils (0-50 €, 50-150 €, plus) ?
-- **Q-R6** Ordre de lancement : je propose maintenant **Projet 1 + produits d'abord** (les personnages servent aussi aux coloriages et aux plannings), puis le 3, puis le 2. D'accord ?
-- **Q-R7** Projet 2 : visages autorisés pour les enfants et les animaux ? Musique ou pas ?
-- **Q-R8** As-tu (ou veux-tu ouvrir) une boutique Etsy et un statut pour vendre (auto-entreprise) ?
-- **Q-R9** L'épisode pilote (docs/episode-pilote-01.md) te plaît-il ? ✅ / ✏️ / ❌
-
+## 🔴 QUESTIONS RESTANTES (mise à jour du 18/11, 2e série)
+- **Q-R10** La maman, la grand-mère et la tata portent-elles un **foulard** ? (option A ou B dans le pilote)
+- **Q-R11** Comment Alya appelle-t-elle ses grands-parents et sa tante ? (Mamie/Papi, Mima/Jeddo, Téta/Jeddi, Tata…)
+- **Q-R12** Projet Coran enfants : **arabe + anglais seulement**, ou aussi une version **française** ?
+- **Q-R13** Projet Coran enfants : tu as répondu « oui ». Ça veut dire **avec musique**, ou **sans musique** (voix seulement, comme le P1) ?
+- **Q-R14** Veux-tu enregistrer **toi-même** la voix de la narratrice (gratuit, et un vrai plus face aux chaînes 100 % IA) ?
+- **Q-R15** Épisode pilote « Bienvenue Amir ! » : ✅ / ✏️ / ❌
 ---
 
 > Réponds bloc par bloc, à ton rythme, même en quelques mots. Si tu ne sais pas, écris « à toi de proposer » : je ferai une recommandation.

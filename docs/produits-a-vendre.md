@@ -1,19 +1,21 @@
-# Produits qui rapportent de l'argent
+# Projet 4 (plus tard) : Produits qui rapportent de l'argent
+
+> **Décision du 18/11** : les produits sont un **projet à part**, sans lien obligatoire avec les vidéos. Ce document sert de réserve d'idées. Prérequis avant de lancer : ouvrir un statut pour vendre (auto-entreprise) et une boutique.
 
 > **C'est le vrai moteur de revenus.** Les vidéos attirent les parents, et les produits génèrent l'argent. On les fabrique une fois et on les vend des centaines de fois.
 
 ## 1. Catalogue par projet
 
-### Projet 1 : Lina et Adam (Montessori)
+### Projet 1 : Alya et Amir (Montessori)
 | Produit | Format | Prix indicatif | Où vendre |
 |---|---|---|---|
-| Coloriages Lina et Adam (pack de 10 à 20) | PDF à imprimer | 2,90 à 4,90 € | Etsy, Payhip, ta boutique |
+| Coloriages Alya et Amir (pack de 10 à 20) | PDF à imprimer | 2,90 à 4,90 € | Etsy, Payhip, ta boutique |
 | **Planning visuel du matin et du soir** (cartes de routine) | PDF A4 et cartes à découper | 3,90 à 6,90 € | Etsy, Pinterest → boutique |
 | Planning de la semaine pour enfant (avec pictogrammes) | PDF + version à plastifier | 4,90 € | Etsy |
 | Cartes de séquence « vie pratique » (laver ses mains, s'habiller…) | PDF | 3,90 € | Etsy |
 | Cartes de nomenclature Montessori (fruits, maison, émotions) | PDF | 4,90 à 7,90 € | Etsy, Teachers Pay Teachers (FR et EN) |
 | « Mon cahier de grande sœur / grand frère » | PDF ou livre KDP | 6,90 € / 8,90 € | Etsy, Amazon KDP |
-| Livre de coloriage Lina et Adam | Livre papier | 6,99 à 8,99 € | **Amazon KDP** (impression à la demande, pas de stock) |
+| Livre de coloriage Alya et Amir | Livre papier | 6,99 à 8,99 € | **Amazon KDP** (impression à la demande, pas de stock) |
 | Livre d'histoire (l'épisode en livre) | Livre papier | 9,99 à 12,99 € | Amazon KDP |
 | **Méga-pack Montessori** (tout réuni) | PDF | 14,90 à 24,90 € | Etsy, ta boutique |
 
@@ -41,7 +43,7 @@
 3. **Payhip ou Gumroad** : ta propre boutique, avec moins de commissions. Le lien va dans les descriptions YouTube et dans ta bio Instagram.
 4. **Pinterest** : n'est pas une boutique, mais c'est **la meilleure source de trafic gratuit** vers les fichiers à imprimer (les recherches « routine montessori », « planning enfant », « coloriage » y sont énormes).
 
-## 3. La stratégie « 1 vidéo = 1 produit »
+## 3. Idée pour plus tard : relier vidéos et produits (optionnel)
 - Chaque épisode a **une fiche gratuite** (pour récupérer l'e-mail des parents) et **un pack payant** lié.
 - Exemple : l'épisode « banane » donne une fiche gratuite « Je prépare ma collation » ; le pack payant « Cartes de vie pratique (20 cartes) » est vendu à 4,90 €.
 - La **liste e-mail** devient ton capital : chaque nouveau produit lui est annoncé.

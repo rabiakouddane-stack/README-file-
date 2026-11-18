@@ -15,7 +15,7 @@
 6. **Créativité / Pertinence** : place le curseur **vers « Pertinence »**, à environ 0,6, pour que Kling respecte bien l'image.
 7. **Prompt négatif** (à coller à chaque fois ; en français : « pas de mouvement rapide, pas de caméra qui tremble, pas de visage qui change, pas de doigts en trop, pas de vêtements ou de cheveux qui changent, pas de texte, rien qui fait peur ») :
    ```
-   fast motion, camera shake, morphing face, extra fingers, deformed hands, changing clothes, changing hair, text, watermark, flicker, scary
+   fast motion, camera shake, morphing face, extra fingers, deformed hands, changing clothes, changing hair, text, watermark, flicker, scary, dark lighting, dim light
    ```
 8. **Pas de son dans Kling** : les voix sont faites à part, avec ElevenLabs.
 9. Télécharge la vidéo et nomme-la `S1E1_scene01.mp4`, `S1E1_scene02.mp4`, etc.
@@ -37,8 +37,8 @@
 | 3 | 5 s | `The mother slowly strokes the girl's curly hair and smiles tenderly, the girl leans against her, slow and soft motion, static camera` | Maman caresse doucement les cheveux bouclés d'Alya et sourit, Alya se blottit contre elle. |
 | 4 | 5 s | `The girl leans forward and gives a gentle kiss on the belly, the mother laughs softly, slow natural movement, static camera` | Alya se penche et fait un bisou sur le ventre, maman rit doucement. |
 | 5 | 5 s | `The father finishes putting on his coat, the grandmother at the door opens her arms with a warm smile, slow natural movement, static camera` | Papa finit de mettre son manteau, Ma ouvre les bras à la porte avec un grand sourire. |
-| 6 | 5 s | `The girl hugs her plush and looks out of the window, the grandmother kneels beside her and gently strokes her back, very slow, calm evening mood` | Alya serre son doudou et regarde par la fenêtre, Ma à genoux à côté lui caresse le dos. |
-| 7 | 5 s | `The grandmother slowly turns a page of the photo album, the girl points at a photo and smiles, soft lamp light, static camera` | Ma tourne une page de l'album, Alya montre une photo du doigt et sourit. |
+| 6 | 5 s | `The girl hugs her plush and looks out of the window, the grandmother kneels beside her and gently strokes her back, very slow, calm, bright cheerful lighting` | Alya serre son doudou et regarde par la fenêtre, Ma à genoux à côté lui caresse le dos. |
+| 7 | 5 s | `The grandmother slowly turns a page of the photo album, the girl points at a photo and smiles, bright cheerful lighting, static camera` | Ma tourne une page de l'album, Alya montre une photo du doigt et sourit. |
 | 8 | 5 s | `The grandmother lowers her phone and smiles at the girl, the girl claps her hands happily twice, slow natural movement` | Ma baisse son téléphone et sourit à Alya, Alya tape deux fois des mains, toute contente. |
 | 9 | 5 s | `The girl draws slowly with a crayon on the paper, the grandmother watches and smiles, calm, static camera` | Alya dessine lentement avec un crayon, Ma la regarde et sourit. |
 | 10 | 5 s | `The girl walks slowly down the corridor holding her father's hand, holding her drawing, the grandmother follows, slow tracking camera from behind` | Alya marche dans le couloir en tenant la main de papa, avec son dessin, Ma les suit. |

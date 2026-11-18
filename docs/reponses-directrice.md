@@ -86,3 +86,4 @@
 | S1E1 scène 10 | Dans le couloir de la maternité, **Alya tient la main de Papa** (scènes 11 et 12 adaptées : Papa ouvre la porte, Alya se cache derrière lui) |
 | Scènes 7 à 12 | ✅ Validées (planche v2) |
 | Animation | **Kling** (choix de la directrice). Scènes 13 à 18 validées : les 18 scènes de l'histoire sont validées. |
+| Lumière | **Jamais de lumière sombre** dans les images : même le soir, les pièces sont bien éclairées, claires et gaies |

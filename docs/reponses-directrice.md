@@ -72,3 +72,4 @@
 | Yanis | Cheveux **2 cm plus courts** : juste au-dessus des épaules |
 | Tonton | Cheveux **très courts** |
 | Yanis | Cheveux **lisses** (sans boucles), juste au-dessus des épaules |
+| Yanis | Couleur de cheveux **comme Amir** (brun foncé) |

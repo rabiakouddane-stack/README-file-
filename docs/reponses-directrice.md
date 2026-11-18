@@ -82,3 +82,4 @@
 | Alya | **Salopette rouge** (au lieu de verte) |
 | S1E1 | **La première rencontre avec Amir a lieu à la maternité.** Alya reçoit **une poupée « de la part de son frère »** (achetée par les parents). Alya offre un dessin à Amir. |
 | Scènes 1 à 6 | ✅ Validées (planche v3) |
+| S1E1 | ✅ Nouvelle histoire des scènes 7 à 18 et chambre de maternité validées |

@@ -56,4 +56,4 @@
 | Chambre des enfants v1 | DECOR_CHAMBRE_ENFANTS_v1.png | MAHbRJkxrVQ | ❌ pas assez de couleur |
 | Chambre des enfants v2 (plus colorée) | DECOR_CHAMBRE_ENFANTS_v2_couleur.png | MAHbRMpXWDE | ❌ manque le lit d'Amir |
 | **Chambre des enfants Montessori v3 (avec le lit d'Amir)** | DECOR_CHAMBRE_ENFANTS_v3_lit-amir.png | **MAHbRBVixAw** | ✅ **CHOISI** |
-| **Chambre de maternité v1** | DECOR_MATERNITE_v1.png | **MAHbRViNPiI** | ⏳ à valider |
+| **Chambre de maternité v1** | DECOR_MATERNITE_v1.png | **MAHbRViNPiI** | ✅ **CHOISI** |

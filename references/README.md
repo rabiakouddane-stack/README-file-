@@ -1,5 +1,11 @@
 # Images de référence des personnages
 
+> 📁 **Dossier Canva du projet** : https://www.canva.com/folder/FAHbRQqKuyw
+> - 1 - Personnages : https://www.canva.com/folder/FAHbRSd2zA4
+> - 2 - Décors : https://www.canva.com/folder/FAHbRVnqCn4
+> - 3 - Épisode 1, planches : https://www.canva.com/folder/FAHbRcYzZiw
+> - 4 - Épisode 1, scènes pour Kling : https://www.canva.com/folder/FAHbRblFaxk
+
 > ✅ **Famille validée le 18/11/2026** : les 11 personnages. Utilise toujours les lignes marquées CHOISI(E).
 
 | Personnage | Fichier | ID média Canva | Statut |

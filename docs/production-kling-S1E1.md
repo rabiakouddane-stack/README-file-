@@ -8,7 +8,7 @@
 ## 1. Réglages Kling (les mêmes pour toutes les scènes)
 
 1. Ouvre **Kling AI**, puis **Vidéo IA → Image vers vidéo** (*Image to Video*).
-2. **Importe l'image** de la scène, téléchargée depuis Canva : bouton « Télécharger » en haut à droite de l'image.
+2. **Importe l'image** de la scène, téléchargée depuis le dossier Canva « 4 - Épisode 1 Bienvenue Amir - Scènes pour Kling » (https://www.canva.com/folder/FAHbRblFaxk) : bouton « Télécharger » en haut à droite de l'image.
 3. **Format** : 16:9.
 4. **Durée** : **5 s** (sauf indication contraire dans le tableau).
 5. **Mode** : *Standard* pour tester. Garde *Professionnel* pour les 2 scènes fortes (15 et 17), si tu as assez de crédits.

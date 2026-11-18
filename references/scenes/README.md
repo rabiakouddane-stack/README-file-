@@ -19,5 +19,5 @@
 | 2 | S1E1/S1E1_scene02.png | MAHbRc7Gnwo | https://www.canva.com/M/MAHbRc7Gnwo | ⏳ |
 | 3 | S1E1/S1E1_scene03.png | MAHbRX3v6H0 | https://www.canva.com/M/MAHbRX3v6H0 | ⏳ |
 | 4 | S1E1/S1E1_scene04.png | MAHbRTk5DL8 | https://www.canva.com/M/MAHbRTk5DL8 | ⏳ |
-| 5 | S1E1/S1E1_scene05.png | MAHbRYSrQQg | https://www.canva.com/M/MAHbRYSrQQg | ⏳ |
-| 6 | S1E1/S1E1_scene06.png | MAHbRWjBMio | https://www.canva.com/M/MAHbRWjBMio | ⏳ (vérifier les cheveux d'Alya) |
+| 5 | S1E1/S1E1_scene05.png | MAHbRQ64Ue8 | https://www.canva.com/M/MAHbRQ64Ue8 | ⏳ (v2 lumineuse) |
+| 6 | S1E1/S1E1_scene06.png | MAHbRXkxsxY | https://www.canva.com/M/MAHbRXkxsxY | ⏳ (v2 lumineuse) |

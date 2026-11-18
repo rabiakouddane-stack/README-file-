@@ -36,7 +36,7 @@ Character sheet of AMIR, a tiny newborn baby boy: sleepy round face, wisps of da
 
 ### Maman
 ```
-Character turnaround sheet of MOM: woman in her early 30s, gentle smile, warm brown eyes, light tan skin, dark curly hair in a low bun, soft terracotta long dress. Front, three-quarter, side views, full body. Same character in every view. [STYLE]
+Character turnaround sheet of MOM: woman in her early 30s, gentle smile, warm brown eyes, light tan skin, long straight black hair worn loose, cozy terracotta knitted sweater, blue jeans, white sneakers. Front, three-quarter, side views, full body. Same character in every view. [STYLE]
 ```
 *(Version enceinte, pour les plans 1 à 4 : ajouter « visibly pregnant, round belly ». À générer à partir de l'image de référence.)*
 

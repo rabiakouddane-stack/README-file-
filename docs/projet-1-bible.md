@@ -43,7 +43,7 @@ On termine par **« Et toi ? »** : une invitation à faire la même chose **en 
 ### La famille (les visages sont montrés)
 | Personnage | Rôle dans les histoires | Description (à compléter avec la directrice) |
 |---|---|---|
-| **Maman** | Douce, à hauteur d'enfant | `MOM: woman in her early 30s, gentle smile, warm brown eyes, light tan skin, dark curly hair in a low bun, soft terracotta long dress` |
+| **Maman** | Douce, à hauteur d'enfant | `MOM: woman in her early 30s, gentle smile, warm brown eyes, light tan skin, long straight black hair worn loose, cozy terracotta knitted sweater, blue jeans, white sneakers` |
 | **Papa** | Joueur, rassurant | `DAD: man in his early 30s, short dark hair, neat short beard, kind eyes, light-grey sweater` |
 | **Mamie** (côté papa) | La cuisine, la transmission, garde Alya | `MAMIE: warm elderly woman, round kind face, wrinkled smile, cream hijab, beige long cardigan` |
 | **Papi** (côté papa) | Les photos de famille, le jardin, la patience | `PAPI: gentle elderly man, short white beard, round glasses, grey knitted beanie, brown knitted vest` |

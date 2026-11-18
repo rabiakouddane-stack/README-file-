@@ -38,6 +38,8 @@
 
 ## Décors
 
+> ✅ **Les 4 décors ont été validés le 18/11/2026.**
+
 | Décor | Fichier | ID média Canva | Statut |
 |---|---|---|---|
 | Salon v1 | DECOR_SALON_v1.png | MAHbQz3588A | ❌ trop jaune |
@@ -46,10 +48,10 @@
 | Entrée v2 (moins de jaune) | DECOR_ENTREE_v2.png | MAHbRKfzTGM | ❌ trop adulte |
 | Maison des grands-parents v1 | DECOR_MAISON_GRANDS-PARENTS_v1.png | MAHbQ0onWaM | ❌ trop jaune |
 | Maison des grands-parents v2 (moins de jaune) | DECOR_MAISON_GRANDS-PARENTS_v2.png | MAHbRBdKLgg | ❌ trop adulte |
-| **Salon v3 (univers d'enfant)** | DECOR_SALON_v3_enfant.png | **MAHbRPsPPII** | ⏳ à valider |
-| **Entrée v3 (univers d'enfant)** | DECOR_ENTREE_v3_enfant.png | **MAHbRFCuMs0** | ⏳ à valider |
+| **Salon v3 (univers d'enfant)** | DECOR_SALON_v3_enfant.png | **MAHbRPsPPII** | ✅ **CHOISI** |
+| **Entrée v3 (univers d'enfant)** | DECOR_ENTREE_v3_enfant.png | **MAHbRFCuMs0** | ✅ **CHOISI** |
 | Maison des grands-parents v3 (univers d'enfant) | DECOR_MAISON_GRANDS-PARENTS_v3_enfant.png | MAHbREtKmcE | ❌ cuisine pas assez moderne |
-| **Maison des grands-parents v4 (cuisine moderne)** | DECOR_MAISON_GRANDS-PARENTS_v4_moderne.png | **MAHbRIw8v7g** | ⏳ à valider |
+| **Maison des grands-parents v4 (cuisine moderne)** | DECOR_MAISON_GRANDS-PARENTS_v4_moderne.png | **MAHbRIw8v7g** | ✅ **CHOISI** |
 | Chambre des enfants v1 | DECOR_CHAMBRE_ENFANTS_v1.png | MAHbRJkxrVQ | ❌ pas assez de couleur |
 | Chambre des enfants v2 (plus colorée) | DECOR_CHAMBRE_ENFANTS_v2_couleur.png | MAHbRMpXWDE | ❌ manque le lit d'Amir |
-| **Chambre des enfants Montessori v3 (avec le lit d'Amir)** | DECOR_CHAMBRE_ENFANTS_v3_lit-amir.png | **MAHbRBVixAw** | ⏳ à valider |
+| **Chambre des enfants Montessori v3 (avec le lit d'Amir)** | DECOR_CHAMBRE_ENFANTS_v3_lit-amir.png | **MAHbRBVixAw** | ✅ **CHOISI** |

@@ -80,3 +80,5 @@
 | Chambre des enfants | **Ajouter le lit d'Amir** (petit lit au sol Montessori, linge bleu à étoiles), à côté du lit d'Alya |
 | S1E1 | C'est **Ma** (et non Mamie) qui vient garder Alya. **Alya n'est jamais seule** : Ma est avec elle à la fenêtre. Mamie, Papi et les autres arrivent au retour de maman avec Amir. |
 | Alya | **Salopette rouge** (au lieu de verte) |
+| S1E1 | **La première rencontre avec Amir a lieu à la maternité.** Alya reçoit **une poupée « de la part de son frère »** (achetée par les parents). Alya offre un dessin à Amir. |
+| Scènes 1 à 6 | ✅ Validées (planche v3) |

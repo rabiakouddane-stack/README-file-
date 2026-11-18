@@ -81,7 +81,7 @@ Une voix **féminine, douce et posée** qui décrit, nomme les émotions et pose
 - **Style** : `original stylized 3D animation, soft rounded shapes, clear neutral daylight (not golden), varied cheerful colors (soft blue, green, pink, coral, red), little yellow or beige, soft materials (wood, linen, wool), shallow depth of field, cinematic quality`
 - **Palette** : vert sauge #9CAF88, crème #F5EFE6, bois clair #D9B99B, terracotta douce #D98E73, bleu ciel #A7C7E7, jaune moutarde #E1B84B.
 - **Lieux** : la maison Montessori (salon, cuisine avec tour d'observation, **chambre des enfants Montessori** où ils jouent : lit au sol en forme de maison pour Alya, tapis d'éveil et mobile pour Amir, étagères basses, miroir avec barre, triangle de Pikler, coin lecture, armoire à hauteur d'enfant), **la maison des grands-parents** (cuisine chaleureuse, jardin avec potager), le parc.
-- **Lumière** : toujours **claire et gaie**, jamais sombre, même le soir (lampes lumineuses, ciel bleu pastel).
+- **Lumière** : toujours **claire et gaie**, jamais sombre. Le soir : intérieur très lumineux, et on voit par la fenêtre que c'est la nuit (ciel bleu nuit, lune, étoiles).
 - **Caméra** : à hauteur d'enfant, mouvements lents, plans de 5 à 8 s.
 - Aucune ressemblance volontaire avec des personnages ou des films existants.
 

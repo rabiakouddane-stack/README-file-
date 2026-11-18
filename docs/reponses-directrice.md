@@ -87,3 +87,4 @@
 | Scènes 7 à 12 | ✅ Validées (planche v2) |
 | Animation | **Kling** (choix de la directrice). Scènes 13 à 18 validées : les 18 scènes de l'histoire sont validées. |
 | Lumière | **Jamais de lumière sombre** dans les images : même le soir, les pièces sont bien éclairées, claires et gaies |
+| Scènes du soir | **Intérieur très lumineux**, mais on voit **par la fenêtre ou la porte que c'est la nuit** (ciel bleu nuit, lune, étoiles) |

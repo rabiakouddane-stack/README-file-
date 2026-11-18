@@ -35,3 +35,11 @@
 
 > Les agents réutilisent l'**ID média Canva** comme image de référence pour garder les personnages identiques.
 > Ces fichiers sont des aperçus en basse résolution. Les originaux sont dans Canva.
+
+## Décors
+
+| Décor | Fichier | ID média Canva | Statut |
+|---|---|---|---|
+| **Salon Montessori** | DECOR_SALON_v1.png | **MAHbQz3588A** | ⏳ à valider |
+| **Entrée de la maison** | DECOR_ENTREE_v1.png | **MAHbQyf5o2s** | ⏳ à valider |
+| **Maison des grands-parents (cuisine et jardin)** | DECOR_MAISON_GRANDS-PARENTS_v1.png | **MAHbQ0onWaM** | ⏳ à valider |

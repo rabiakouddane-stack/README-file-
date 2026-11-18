@@ -66,3 +66,5 @@
 | Tata | **30 ans**, peau claire, **cheveux très longs**, **t-shirt et jean** |
 | Tonton | **Grand**, **30 ans**, **t-shirt et jean** |
 | Yanis | Peau claire, **cheveux châtains bouclés, libres** (non attachés) |
+| Yanis | Cheveux **longs jusqu'aux épaules** |
+| Amir | **Très peu de cheveux** (presque chauve, un léger duvet) |

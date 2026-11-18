@@ -23,9 +23,9 @@ MAMIE (paternal grandmother): warm elderly woman, round kind face, wrinkled smil
 PAPI (paternal grandfather): gentle elderly man, short white beard, round glasses, grey knitted beanie, brown knitted vest.
 MA (maternal grandmother): young-looking 58-year-old grandmother with a youthful smooth face, sparkling dark eyes, warm smile, sage-green hijab, light cream button-up shirt, terracotta pleated trousers, flat loafers.
 BASSI (maternal grandfather): 64-year-old grandfather, black hair with a few grey strands at the temples, thick black moustache, warm laugh lines, navy-blue t-shirt, blue jeans, sneakers, no hat.
-AUNT (Tata): young woman in her 20s, joyful expression, long dark wavy hair, mustard-yellow cardigan.
-YANIS (cousin, son of mom's brother): a 2-and-a-half-year-old toddler boy, short curly black hair, chubby cheeks, big cheerful smile, red hoodie, soft jeans, small sneakers.
-UNCLE (Tonton, mom's brother): man in his late 20s, short black hair, short trimmed beard, big friendly smile, olive-green jacket.
+AUNT (Tata): young woman, 30 years old, fair light skin, joyful expression, very long straight dark-brown hair worn loose, mustard-yellow t-shirt, blue jeans, white sneakers.
+YANIS (cousin, son of mom's brother): a 2-and-a-half-year-old toddler boy, fair light skin, light chestnut-brown hair with soft loose curls, chubby rosy cheeks, big cheerful smile, red hoodie, soft jeans, small sneakers.
+UNCLE (Tonton, mom's brother): very tall young man, 30 years old, short black hair, short trimmed beard, big friendly smile, olive-green t-shirt, blue jeans, sneakers.
 STYLE: original stylized 3D animation, soft rounded shapes, warm natural light, soft materials (wood, linen, wool), shallow depth of field, cinematic quality, pastel palette sage green, cream, light wood, soft terracotta.
 ```
 **Prompt négatif** : `text, letters, watermark, extra fingers, deformed hands, scary, neon colors, fast motion, logo, existing cartoon characters`

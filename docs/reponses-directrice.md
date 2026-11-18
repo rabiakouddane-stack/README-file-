@@ -63,3 +63,6 @@
 | Maman | **Cheveux noirs et longs**, toujours **en jean et en pull** |
 | Ma | **58 ans**, jeune grand-mère, foulard, **chemise et pantalon à pinces** |
 | Bassi | **64 ans**, **jean et t-shirt** |
+| Tata | **30 ans**, peau claire, **cheveux très longs**, **t-shirt et jean** |
+| Tonton | **Grand**, **30 ans**, **t-shirt et jean** |
+| Yanis | Peau claire, **cheveux châtains bouclés, libres** (non attachés) |

@@ -49,9 +49,9 @@ On termine par **« Et toi ? »** : une invitation à faire la même chose **en 
 | **Papi** (côté papa) | Les photos de famille, le jardin, la patience | `PAPI: gentle elderly man, short white beard, round glasses, grey knitted beanie, brown knitted vest` |
 | **Ma** (côté maman) | La conteuse, les câlins, les gâteaux | `MA: young-looking 58-year-old grandmother with a youthful smooth face, sparkling dark eyes, warm smile, sage-green hijab, light cream button-up shirt, terracotta pleated trousers, flat loafers` |
 | **Bassi** (côté maman) | Les promenades, les rires, les petites blagues | `BASSI: 64-year-old grandfather, black hair with a few grey strands at the temples, thick black moustache, warm laugh lines, navy-blue t-shirt, blue jeans, sneakers, no hat` |
-| **Tata** | Le jeu, les visites surprises | `AUNT: young woman in her 20s, joyful expression, long dark wavy hair, mustard-yellow cardigan` |
-| **Yanis** (le cousin, 2 ans et demi, fils de Tonton) | Presque le même âge qu'Alya : ils jouent ensemble, apprennent à partager, se disputent et se réconcilient | `YANIS (cousin, son of mom's brother): a 2-and-a-half-year-old toddler boy, short curly black hair, chubby cheeks, big cheerful smile, red hoodie, soft jeans, small sneakers` |
-| **Tonton** (frère de maman, papa de Yanis) | Les repas en famille, le jeu, le partage | `UNCLE: man in his late 20s, short black hair, short trimmed beard, big friendly smile, olive-green jacket` |
+| **Tata** | Le jeu, les visites surprises | `AUNT: young woman, 30 years old, fair light skin, joyful expression, very long straight dark-brown hair worn loose, mustard-yellow t-shirt, blue jeans, white sneakers` |
+| **Yanis** (le cousin, 2 ans et demi, fils de Tonton) | Presque le même âge qu'Alya : ils jouent ensemble, apprennent à partager, se disputent et se réconcilient | `YANIS (cousin, son of mom's brother): a 2-and-a-half-year-old toddler boy, fair light skin, light chestnut-brown hair with soft loose curls, chubby rosy cheeks, big cheerful smile, red hoodie, soft jeans, small sneakers` |
+| **Tonton** (frère de maman, papa de Yanis) | Les repas en famille, le jeu, le partage | `UNCLE: very tall young man, 30 years old, short black hair, short trimmed beard, big friendly smile, olive-green t-shirt, blue jeans, sneakers` |
 | **Les amis** (une petite voisine, par exemple) | La sociabilité | *À créer quand ils apparaissent* |
 
 **Foulard** : seules les deux grands-mères (Mamie et Ma) portent le foulard. Maman et Tata ne le portent pas.

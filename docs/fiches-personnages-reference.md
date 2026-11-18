@@ -67,17 +67,17 @@ Character turnaround sheet of BASSI: 64-year-old grandfather, black hair with a 
 
 ### Tata
 ```
-Character turnaround sheet of AUNT: young woman in her 20s, joyful expression, long dark wavy hair, mustard-yellow cardigan, jeans. Front, three-quarter, side views, full body. [STYLE]
+Character turnaround sheet of AUNT: young woman, 30 years old, fair light skin, joyful expression, very long straight dark-brown hair worn loose, mustard-yellow t-shirt, blue jeans, white sneakers. Front, three-quarter, side views, full body. [STYLE]
 ```
 
 ### Yanis (le cousin, 2 ans et demi)
 ```
-Character turnaround sheet of YANIS: a 2-and-a-half-year-old toddler boy, short curly black hair, chubby cheeks, big cheerful smile, red hoodie, soft jeans, small sneakers. Front, three-quarter, side views, full body. [STYLE]
+Character turnaround sheet of YANIS: a 2-and-a-half-year-old toddler boy, fair light skin, light chestnut-brown hair with soft loose curls, chubby rosy cheeks, big cheerful smile, red hoodie, soft jeans, small sneakers. Front, three-quarter, side views, full body. [STYLE]
 ```
 
 ### Tonton (frère de maman, papa de Yanis)
 ```
-Character turnaround sheet of UNCLE: man in his late 20s, short black hair, short trimmed beard, big friendly smile, olive-green jacket, jeans. Front, three-quarter, side views, full body. [STYLE]
+Character turnaround sheet of UNCLE: very tall young man, 30 years old, short black hair, short trimmed beard, big friendly smile, olive-green t-shirt, blue jeans, sneakers. Front, three-quarter, side views, full body. [STYLE]
 ```
 
 ### Les décors (une seule fois)

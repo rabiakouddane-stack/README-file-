@@ -40,13 +40,13 @@ STYLE: original stylized 3D animation, soft rounded shapes, warm natural light, 
 | 2 | 6 s | Gros plan : la main d'Alya sur le ventre. Petit mouvement sous la main. Alya ouvre grand les yeux. | **Alya** : « Bébé bouge ! » | – |
 | 3 | 7 s | Maman sourit, caresse les cheveux bouclés d'Alya. | **Maman** : « Oui. C'est ton petit frère. Il arrive bientôt. » | – |
 | 4 | 6 s | Alya fait un bisou sur le ventre. | **Alya** : « Bisou bébé. » | bisou |
-| 5 | 8 s | Le soir. Papa met son manteau. Mamie arrive à la porte et ouvre les bras. | **Narratrice** : « Ce soir, le bébé arrive. Papa et Maman partent. Mamie reste avec Alya. » | porte, pas |
-| 6 | 7 s | Alya, inquiète, serre son doudou près de la fenêtre. | **Alya** : « Maman ? » *(silence, 2 s)* | silence |
-| 7 | 8 s | Mamie s'assoit près d'elle, la prend contre elle. | **Narratrice** : « Alya est inquiète. C'est normal. » **Mamie** : « Maman revient bientôt, ma chérie. Avec ton petit frère. » | – |
-| 8 | 7 s | Papi, à genoux, montre à Alya une photo de Papa bébé dans un album. | **Papi** : « Regarde. Ton papa, quand il était tout petit. » **Alya** : « Papa bébé ! » *(rire)* | pages tournées |
-| 9 | 7 s | Le matin. Alya et Mamie préparent ensemble un petit dessin ou un doudou à offrir. | **Narratrice** : « Alya prépare un cadeau pour son frère. » | – |
-| 10 | 7 s | La porte s'ouvre. Papa entre, puis Maman avec le bébé dans les bras. Ma, Bassi, Tata, Tonton et le petit cousin Yanis arrivent juste derrière. | **Narratrice** : « Ils sont là ! » | porte, petits cris de joie chuchotés |
-| 11 | 7 s | Alya se cache derrière les jambes de Mamie, timide. | **Narratrice** : « Alya est timide. Elle regarde… doucement. » | – |
+| 5 | 8 s | Le soir. Papa met son manteau. Ma arrive à la porte et ouvre les bras. | **Narratrice** : « Ce soir, le bébé arrive. Papa et Maman partent. Ma reste avec Alya. » | porte, pas |
+| 6 | 7 s | Alya, inquiète, serre son doudou près de la fenêtre. Ma est à côté d'elle (Alya n'est jamais seule). | **Alya** : « Maman ? » *(silence, 2 s)* | silence |
+| 7 | 8 s | Ma s'assoit près d'elle, la prend contre elle. | **Narratrice** : « Alya est inquiète. C'est normal. » **Ma** : « Maman revient bientôt, ma chérie. Avec ton petit frère. » | – |
+| 8 | 7 s | Ma, à genoux, montre à Alya une photo de Maman bébé dans un album. | **Ma** : « Regarde. Ta maman, quand elle était toute petite. » **Alya** : « Maman bébé ! » *(rire)* | pages tournées |
+| 9 | 7 s | Le matin. Alya et Ma préparent ensemble un petit dessin ou un doudou à offrir. | **Narratrice** : « Alya prépare un cadeau pour son frère. » | – |
+| 10 | 7 s | La porte s'ouvre. Papa entre, puis Maman avec le bébé dans les bras. Mamie, Papi, Bassi, Tata, Tonton et le petit cousin Yanis arrivent juste derrière. | **Narratrice** : « Ils sont là ! » | porte, petits cris de joie chuchotés |
+| 11 | 7 s | Alya se cache derrière les jambes de Ma, timide. | **Narratrice** : « Alya est timide. Elle regarde… doucement. » | – |
 | 12 | 7 s | Maman s'assoit sur le canapé et tapote la place à côté d'elle. | **Maman** : « Viens, Alya. Viens voir Amir. » | – |
 | 13 | 8 s | Alya s'approche lentement, monte sur le canapé, regarde le bébé. | **Alya** *(chuchote)* : « Amir… tout petit. » | – |
 | 14 | 6 s | Maman montre la petite main. | **Maman** : « Doucement… avec un doigt. » **Narratrice** : « Doucement. Doucement. » | – |
@@ -59,8 +59,8 @@ STYLE: original stylized 3D animation, soft rounded shapes, warm natural light, 
 
 ## Prompts image (exemples clés ; même modèle pour les autres plans)
 - **Plan 1** : `[PERSONNAGES] ALYA placing both small hands on pregnant MOM's round belly, both sitting on a round beige wool rug in a bright Montessori living room, low wooden shelf, plants, large window, soft morning light, child-eye-level camera, 16:9`
-- **Plan 7** : `[PERSONNAGES] MAMIE sitting by the window in the evening, hugging worried ALYA who holds a small knitted plush, warm lamp light, cozy and reassuring mood, 16:9`
-- **Plan 10** : `[PERSONNAGES] Front door opening, DAD entering, MOM holding newborn AMIR wrapped in a cream blanket, MA, BASSI, AUNT, UNCLE and little YANIS smiling behind, seen from ALYA's low point of view, warm daylight, 16:9`
+- **Plan 7** : `[PERSONNAGES] MA sitting by the window in the evening, hugging worried ALYA who holds a small knitted plush, warm lamp light, cozy and reassuring mood, 16:9`
+- **Plan 10** : `[PERSONNAGES] Front door opening, DAD entering, MOM holding newborn AMIR wrapped in a cream blanket, MAMIE, PAPI, BASSI, AUNT, UNCLE and little YANIS smiling behind, seen from ALYA's low point of view, warm daylight, 16:9`
 - **Plan 15** : `[PERSONNAGES] Extreme close-up of newborn AMIR's tiny hand gripping ALYA's small finger, ALYA's amazed face softly blurred in the background, golden light, very tender, 16:9`
 - **Plan 17** : `[PERSONNAGES] Whole family gathered around a cream sofa: MOM holding AMIR, ALYA beside her, DAD, MAMIE, PAPI, MA, BASSI, AUNT, UNCLE and YANIS smiling, wide shot, golden afternoon light, 16:9`
 

@@ -78,3 +78,4 @@
 | Maison des grands-parents | **Cuisine moderne** (pas traditionnelle), toujours colorée pour les enfants |
 | Décors | Ajout de **la chambre des enfants** (Alya et Amir), **aménagée Montessori** : c'est là que les enfants jouent |
 | Chambre des enfants | **Ajouter le lit d'Amir** (petit lit au sol Montessori, linge bleu à étoiles), à côté du lit d'Alya |
+| S1E1 | C'est **Ma** (et non Mamie) qui vient garder Alya. **Alya n'est jamais seule** : Ma est avec elle à la fenêtre. Mamie, Papi et les autres arrivent au retour de maman avec Amir. |

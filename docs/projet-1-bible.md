@@ -87,7 +87,7 @@ Une voix **féminine, douce et posée** qui décrit, nomme les émotions et pose
 ## 6. Saison 1 : « Bienvenue Amir » (Amir de 0 à 3 mois)
 
 1. **Bienvenue Amir !** (naissance et arrivée à la maison) *(→ épisode pilote)*
-2. Alya chez Mamie et Papi pendant que Maman est à la maternité
+2. Alya avec Ma pendant que Maman est à la maternité
 3. Le premier bain d'Amir : Alya aide (elle tend la serviette)
 4. Chut… bébé dort (apprendre à chuchoter)
 5. Amir pleure : Alya cherche comment le consoler

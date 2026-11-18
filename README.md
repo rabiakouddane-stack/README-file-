@@ -9,6 +9,7 @@
 | [docs/reponses-directrice.md](docs/reponses-directrice.md) | ⭐ Tes décisions (priment sur tout) |
 | [docs/projet-1-bible.md](docs/projet-1-bible.md) | Bible Alya et Amir : personnages, Montessori, style, 30 idées |
 | [docs/episode-pilote-naissance.md](docs/episode-pilote-naissance.md) | ⭐ Épisode pilote S1E1 « Bienvenue Amir ! » (script + prompts), à valider |
+| [docs/fiches-personnages-reference.md](docs/fiches-personnages-reference.md) | ⭐ Prompts des images de référence + plan de production du pilote |
 | [docs/episode-banane.md](docs/episode-banane.md) | Épisode déjà écrit pour la saison 3 |
 | [docs/outils-budget-50.md](docs/outils-budget-50.md) | Les outils avec un budget de 50 € maximum |
 | [docs/produits-a-vendre.md](docs/produits-a-vendre.md) | Projet 4 (plus tard) : coloriages, plannings, livres |

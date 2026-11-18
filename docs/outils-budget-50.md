@@ -25,7 +25,9 @@
 | **Conseillée** : petit abonnement vidéo (Kling ou équivalent) + ta voix | **environ 10 à 15 €** |
 | **Confort** : vidéo + ElevenLabs Starter + un abonnement image | **environ 25 à 40 €** |
 
-👉 Je recommande la configuration **conseillée (10 à 15 €)**. On utilise les crédits gratuits pour tester, puis on paie seulement la génération vidéo.
+👉 **Décision : la narratrice sera une voix IA.** Budget retenu : **vidéo (environ 10 €) + ElevenLabs Starter (environ 5 $) ≈ 15 à 20 € par mois**, donc bien en dessous de 50 €.
+
+👉 Je recommande la configuration **conseillée**, avec la voix IA en plus. On utilise les crédits gratuits pour tester, puis on paie seulement la génération vidéo.
 
 ## Astuces pour économiser les crédits
 1. **Valider le script avant de générer** : on ne paie jamais une vidéo dont l'histoire n'est pas validée.

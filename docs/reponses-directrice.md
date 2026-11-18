@@ -32,3 +32,15 @@
 | P2 : langues | **Arabe et anglais** (une vidéo séparée par langue) ; français à confirmer |
 | P2 : visages | **Oui** pour les enfants et les animaux (jamais les prophètes) |
 | P2 : musique | Réponse « oui » : à préciser (avec ou sans musique ?) |
+
+## Réponses du 18/11/2026 (troisième série)
+
+| Sujet | Décision |
+|---|---|
+| Foulard | **Seulement les grands-mères** (Mamie et Ma). Maman et Tata sans foulard. |
+| Grands-parents côté papa | **Mamie** et **Papi** |
+| Grands-parents côté maman | **Ma** et **Bassi** |
+| P2 : langues | **Arabe, anglais et français** (une vidéo séparée par langue) |
+| P2 : musique | **Avec musique** |
+| Voix de la narratrice | **Voix IA** (la directrice n'enregistre pas) → voix sous licence commerciale |
+| Épisode pilote « Bienvenue Amir ! » | ✅ **Validé** |

@@ -43,15 +43,17 @@ On termine par **« Et toi ? »** : une invitation à faire la même chose **en 
 ### La famille (les visages sont montrés)
 | Personnage | Rôle dans les histoires | Description (à compléter avec la directrice) |
 |---|---|---|
-| **Maman** | Douce, à hauteur d'enfant | *À fixer : voir Q-R10 (foulard ou non)* |
+| **Maman** | Douce, à hauteur d'enfant | `MOM: woman in her early 30s, gentle smile, warm brown eyes, light tan skin, dark curly hair in a low bun, soft terracotta long dress` |
 | **Papa** | Joueur, rassurant | `DAD: man in his early 30s, short dark hair, neat short beard, kind eyes, light-grey sweater` |
-| **Grand-mère** | La conteuse, la cuisine, la transmission | `GRANDMOTHER: warm elderly woman, kind wrinkled smile, soft cardigan` *(+ foulard à confirmer)* |
-| **Grand-père** | Le jardin, les promenades, la patience | `GRANDFATHER: gentle elderly man, short white beard, glasses, cozy vest` |
-| **Tata** | Le jeu, les visites surprises | *À fixer* |
-| **Tonton et cousins** | Les repas en famille, le partage | *À fixer* |
-| **Les amis** (une petite voisine, par exemple) | La sociabilité | *À fixer* |
+| **Mamie** (côté papa) | La cuisine, la transmission, garde Alya | `MAMIE: warm elderly woman, round kind face, wrinkled smile, cream hijab, beige long cardigan` |
+| **Papi** (côté papa) | Les photos de famille, le jardin, la patience | `PAPI: gentle elderly man, short white beard, round glasses, brown knitted vest` |
+| **Ma** (côté maman) | La conteuse, les câlins, les gâteaux | `MA: small elderly woman, sparkling dark eyes, sage-green hijab, soft terracotta long dress` |
+| **Bassi** (côté maman) | Les promenades, les rires, les petites blagues | `BASSI: tall elderly man, grey moustache, warm laugh lines, navy cardigan, flat cap` |
+| **Tata** | Le jeu, les visites surprises | `AUNT: young woman in her 20s, joyful expression, long dark wavy hair, mustard-yellow cardigan` |
+| **Tonton et cousins** | Les repas en famille, le partage | *À créer quand ils apparaissent* |
+| **Les amis** (une petite voisine, par exemple) | La sociabilité | *À créer quand ils apparaissent* |
 
-*Comment Alya appelle ses grands-parents (Mamie/Papi, Mima/Jeddo, Téta/Jeddi…) : voir Q-R11.*
+**Foulard** : seules les deux grands-mères (Mamie et Ma) portent le foulard. Maman et Tata ne le portent pas.
 
 ### Le narrateur
 Une voix **féminine, douce et posée** qui décrit, nomme les émotions et pose des questions à l'enfant en laissant des pauses.
@@ -84,16 +86,16 @@ Une voix **féminine, douce et posée** qui décrit, nomme les émotions et pose
 ## 6. Saison 1 : « Bienvenue Amir » (Amir de 0 à 3 mois)
 
 1. **Bienvenue Amir !** (naissance et arrivée à la maison) *(→ épisode pilote)*
-2. Alya chez Grand-mère pendant que Maman est à la maternité
+2. Alya chez Mamie et Papi pendant que Maman est à la maternité
 3. Le premier bain d'Amir : Alya aide (elle tend la serviette)
 4. Chut… bébé dort (apprendre à chuchoter)
 5. Amir pleure : Alya cherche comment le consoler
 6. Alya est jalouse (Maman porte toujours le bébé) : Papa a une idée
 7. La visite de Tata (cadeaux pour les deux enfants)
-8. Grand-père raconte quand Papa était bébé (les photos de famille)
+8. Papi raconte quand Papa était bébé (les photos de famille)
 9. Alya choisit un vêtement pour Amir (vie pratique : plier, ranger)
 10. Le premier sourire d'Amir… pour Alya ! *(épisode fort)*
-11. Grand-mère apprend à Alya à préparer le goûter
+11. Ma apprend à Alya à préparer le goûter
 12. La promenade en poussette au parc : Alya pousse aussi
 13. Les cousins viennent voir le bébé (partager, être doux)
 14. Le soir, toute la famille dit bonne nuit

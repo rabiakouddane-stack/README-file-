@@ -1,6 +1,6 @@
 # Projet 2 : Chaîne Coran et Islam pour enfants (4 ans et plus)
 
-> **Décisions du 18/11** : enfants de **plus de 4 ans** ; vidéos en **arabe et en anglais**, chaque langue dans **une vidéo séparée** (français à confirmer, voir Q-R12) ; **visages des enfants et des animaux autorisés** (les prophètes ne sont jamais montrés) ; musique à confirmer (Q-R13) ; validation religieuse faite par la directrice, avec l'agent Gardien religieux.
+> **Décisions du 18/11** : enfants de **plus de 4 ans** ; vidéos en **arabe, en anglais et en français**, chaque langue dans **une vidéo séparée** ; **visages des enfants et des animaux autorisés** (les prophètes ne sont jamais montrés) ; **avec musique** ; validation religieuse faite par la directrice, avec l'agent Gardien religieux.
 
 ## 1. Le marché : ce qui existe déjà
 

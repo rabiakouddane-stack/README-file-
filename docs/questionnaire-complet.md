@@ -1,12 +1,9 @@
 # Questionnaire complet
 
-## 🔴 QUESTIONS RESTANTES (mise à jour du 18/11, 2e série)
-- **Q-R10** La maman, la grand-mère et la tata portent-elles un **foulard** ? (option A ou B dans le pilote)
-- **Q-R11** Comment Alya appelle-t-elle ses grands-parents et sa tante ? (Mamie/Papi, Mima/Jeddo, Téta/Jeddi, Tata…)
-- **Q-R12** Projet Coran enfants : **arabe + anglais seulement**, ou aussi une version **française** ?
-- **Q-R13** Projet Coran enfants : tu as répondu « oui ». Ça veut dire **avec musique**, ou **sans musique** (voix seulement, comme le P1) ?
-- **Q-R14** Veux-tu enregistrer **toi-même** la voix de la narratrice (gratuit, et un vrai plus face aux chaînes 100 % IA) ?
-- **Q-R15** Épisode pilote « Bienvenue Amir ! » : ✅ / ✏️ / ❌
+## 🔴 QUESTIONS RESTANTES (mise à jour du 18/11, 3e série)
+- **Q-R16** Ma et Bassi : j'ai compris que ce sont les grands-parents du côté de maman (Ma = grand-mère, Bassi = grand-père). C'est bien ça ?
+- **Q-R17** Tata est-elle la sœur de papa ou de maman ?
+- **Q-R18** Images de référence (docs/fiches-personnages-reference.md) : choisis ta version préférée de chaque personnage.
 ---
 
 > Réponds bloc par bloc, à ton rythme, même en quelques mots. Si tu ne sais pas, écris « à toi de proposer » : je ferai une recommandation.

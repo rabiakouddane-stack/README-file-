@@ -16,7 +16,7 @@
 
 ### Bloc PERSONNAGES (à coller dans chaque prompt image)
 ```
-ALYA: a 2-year-old toddler girl, round face, big warm brown eyes, curly brown hair in two small pigtails with mustard-yellow hair ties, rosy cheeks, light tan skin, sage-green linen overalls over a cream t-shirt, barefoot.
+ALYA: a 2-year-old toddler girl, round face, big warm brown eyes, curly brown hair in two small pigtails with mustard-yellow hair ties, rosy cheeks, light tan skin, cherry-red linen overalls over a cream t-shirt, barefoot.
 AMIR: a 9-month-old chubby baby boy, fine wispy brown hair, big dark eyes, light-blue onesie, white bib with a small star.
 STYLE: original stylized 3D animation, soft rounded shapes, warm natural late-morning light, soft materials (wood, linen, wool), shallow depth of field, cinematic quality, pastel palette sage green, cream, light wood, soft terracotta.
 ```

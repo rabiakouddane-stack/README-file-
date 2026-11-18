@@ -26,7 +26,7 @@ On termine par **« Et toi ? »** : une invitation à faire la même chose **en 
 > Les descriptions en **anglais** sont à coller mot pour mot dans les prompts. Elles ne doivent jamais changer.
 
 ### Alya : la grande sœur (2 ans au début de la série)
-- **Description pour les prompts** : `ALYA: a 2-year-old toddler girl, round face, big warm brown eyes, very curly voluminous dark-brown hair in two small puffs with mustard-yellow hair ties, rosy cheeks, light tan skin, sage-green linen overalls over a cream t-shirt, barefoot or soft slippers.`
+- **Description pour les prompts** : `ALYA: a 2-year-old toddler girl, round face, big warm brown eyes, very curly voluminous dark-brown hair in two small puffs with mustard-yellow hair ties, rosy cheeks, light tan skin, cherry-red linen overalls over a cream t-shirt, barefoot or soft slippers.`
 - **Caractère** : curieuse, déterminée (« Moi toute seule ! »), parfois frustrée ou jalouse, très tendre.
 - **Langage** : phrases de 2 à 4 mots (« Bébé dort. », « Alya aide ! »).
 - **Tic** : un petit « Voilààà ! » fier quand elle réussit.

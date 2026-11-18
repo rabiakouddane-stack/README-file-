@@ -15,7 +15,7 @@
 
 ### Bloc PERSONNAGES (à coller dans chaque prompt image)
 ```
-ALYA: a 2-year-old toddler girl, round face, big warm brown eyes, very curly voluminous dark-brown hair in two small puffs with mustard-yellow hair ties, rosy cheeks, light tan skin, sage-green linen overalls over a cream t-shirt.
+ALYA: a 2-year-old toddler girl, round face, big warm brown eyes, very curly voluminous dark-brown hair in two small puffs with mustard-yellow hair ties, rosy cheeks, light tan skin, cherry-red linen overalls over a cream t-shirt.
 AMIR (newborn): a tiny newborn baby boy, sleepy face, wisps of dark hair, wrapped in a cream knitted blanket, tiny hands.
 MOM: woman in her early 30s, gentle smile, warm brown eyes, light tan skin, long straight black hair worn loose, cozy terracotta knitted sweater, blue jeans, white sneakers.
 DAD: man in his early 30s, short dark hair, neat short beard, kind eyes, light-grey sweater.

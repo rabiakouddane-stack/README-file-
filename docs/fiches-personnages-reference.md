@@ -22,7 +22,7 @@ original stylized 3D animated character, soft rounded shapes, warm soft studio l
 ### Alya (2 ans)
 **Planche personnage :**
 ```
-Character turnaround sheet of ALYA, a 2-year-old toddler girl: round face, big warm brown eyes, very curly voluminous dark-brown hair in two small puffs with mustard-yellow hair ties, rosy cheeks, light tan skin, sage-green linen overalls over a cream t-shirt, barefoot. Front view, three-quarter view, side view and back view, full body, standing, same character in every view. [STYLE]
+Character turnaround sheet of ALYA, a 2-year-old toddler girl: round face, big warm brown eyes, very curly voluminous dark-brown hair in two small puffs with mustard-yellow hair ties, rosy cheeks, light tan skin, cherry-red linen overalls over a cream t-shirt, barefoot. Front view, three-quarter view, side view and back view, full body, standing, same character in every view. [STYLE]
 ```
 **Planche expressions** (avec l'image de référence) :
 ```

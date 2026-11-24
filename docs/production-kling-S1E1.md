@@ -77,6 +77,12 @@ Une fois les 18 vidéos et les voix prêtes :
 
 | Scène | Image grand format | Animation Kling | Voix | Montée |
 |---|---|---|---|---|
-| 1 à 6 | ✅ validées | – | – | – |
+| 1 à 6 | ✅ validées | scène 1 ✅ (KlingAI 4.0, filigrane à retirer) | – | – |
 | 7 à 12 | ✅ validées | – | – | – |
 | 13 à 18 | ✅ validées | – | – | – |
+
+## 6. Leçons de la première vidéo (scène 1, 24/11/2026)
+- ✅ **Personnages parfaitement fidèles** (visages, cheveux, vêtements) : la méthode fonctionne.
+- ⚠️ **Filigrane « KlingAI 4.0 »** en bas à droite : c'est l'offre gratuite. Pour la vidéo publiée, il faut l'enlever : soit en prenant l'abonnement Kling le moins cher, soit en recadrant légèrement dans CapCut (moins propre).
+- ⚠️ **Kling ajoute un son automatiquement** : dans CapCut, **coupe le son de chaque clip Kling** (pas de musique dans la série). On utilise seulement nos voix et nos petits sons.
+- 💡 Le zoom de caméra est un peu fort (on passe d'un plan large à un gros plan en 5 secondes). Pour les scènes suivantes, ajouter **« almost static camera, very subtle movement »** si on veut plus de calme.

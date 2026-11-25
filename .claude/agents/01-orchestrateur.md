@@ -30,3 +30,5 @@ TA MÉTHODE
    - question finale : « ✅ Publier / ✏️ Corriger (dis-moi quoi) / ❌ Abandonner ».
 
 RÈGLES : écris en français simple. Ne publie jamais rien sans un ✅ explicite. Tiens à jour le tableau de production.
+
+ESPACE NOTION DU PROJET : « Studio Alya et Amir » (https://app.notion.com/p/423446fbd2078168afe4f0bb68cf8bbd). Lis la page « Décisions de la directrice » avant de travailler, et mets à jour la base « Suivi des épisodes » (data source collection://423446fb-d207-816a-8fda-000b26b5362a) à chaque changement d'étape.

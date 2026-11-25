@@ -1,5 +1,7 @@
 # Studio de contenu IA : 3 chaînes (enfants, Coran enfants, Coran adultes)
 
+> 🗂️ **Espace Notion du projet** : « Studio Alya et Amir » (décisions, bible, guides, agents, suivi des épisodes)
+
 | Document | Contenu |
 |---|---|
 | [docs/00-synthese-et-avis.md](docs/00-synthese-et-avis.md) | Avis, risques, architecture de l'équipe IA, outils, monétisation, ordre de lancement |

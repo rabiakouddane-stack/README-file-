@@ -39,7 +39,7 @@
 |---|---|
 | Foulard | **Seulement les grands-mères** (Mamie et Ma). Maman et Tata sans foulard. |
 | Grands-parents côté papa | **Mamie** et **Papi** |
-| Grands-parents côté maman | **Ma** et **Bassi** |
+| Grands-parents côté maman | **Ma** et **Basidi** |
 | P2 : langues | **Arabe, anglais et français** (une vidéo séparée par langue) |
 | P2 : musique | **Avec musique** |
 | Voix de la narratrice | **Voix IA** (la directrice n'enregistre pas) → voix sous licence commerciale |
@@ -49,8 +49,8 @@
 
 | Sujet | Décision |
 |---|---|
-| Ma et Bassi | Confirmé : les grands-parents du côté de maman |
-| Bassi | **Cheveux noirs, moustache noire, sans casquette** |
+| Ma et Basidi | Confirmé : les grands-parents du côté de maman |
+| Basidi | **Cheveux noirs, moustache noire, sans casquette** |
 | Papi | Barbe blanche, lunettes, **avec un bonnet** |
 | Nouveau personnage | **Yanis, le cousin, 2 ans et demi**, fils de **Tonton** (le frère de maman) |
 
@@ -62,7 +62,7 @@
 | Choix final | **Version 2** (couleurs douces mais présentes) pour Alya et Amir. Elle sert de modèle de style pour toute la famille. |
 | Maman | **Cheveux noirs et longs**, toujours **en jean et en pull** |
 | Ma | **58 ans**, jeune grand-mère, foulard, **chemise et pantalon à pinces** |
-| Bassi | **64 ans**, **jean et t-shirt** |
+| Basidi | **64 ans**, **jean et t-shirt** |
 | Tata | **30 ans**, peau claire, **cheveux très longs**, **t-shirt et jean** |
 | Tonton | **Grand**, **30 ans**, **t-shirt et jean** |
 | Yanis | Peau claire, **cheveux châtains bouclés, libres** (non attachés) |
@@ -93,3 +93,4 @@
 | S1E1 | ✅ **Les 18 scènes en grand format sont validées.** Prochaine étape : animation Kling par la directrice |
 | Production | La directrice ne veut **rien faire à la main** : un agent **producteur-video** fabrique tout (images, Kling par API, voix ElevenLabs par API, montage). Elle valide seulement les planches et la vidéo finale. |
 | Animation automatique | **fal.ai** (Kling à la seconde, environ 8 à 13 $ par épisode). API officielle Kling écartée (pack minimum 500 $). Schéma : https://claude.ai/artifact/91vX5oPQaZqvUhxz4hfkFY |
+| Nom du grand-père (côté maman) | **Basidi** (et non « Bassi ») |

@@ -1,7 +1,7 @@
 # Questionnaire complet
 
 ## 🔴 QUESTIONS RESTANTES (mise à jour du 18/11, 3e série)
-- **Q-R16** Ma et Bassi : j'ai compris que ce sont les grands-parents du côté de maman (Ma = grand-mère, Bassi = grand-père). C'est bien ça ?
+- **Q-R16** Ma et Basidi : j'ai compris que ce sont les grands-parents du côté de maman (Ma = grand-mère, Basidi = grand-père). C'est bien ça ?
 - **Q-R17** Tata est-elle la sœur de papa ou de maman ?
 - **Q-R18** Images de référence (docs/fiches-personnages-reference.md) : choisis ta version préférée de chaque personnage.
 ---

@@ -57,7 +57,7 @@
 
 Je te préparerai un fichier `voix-S1E1.md` avec :
 - chaque réplique, dans l'ordre des scènes ;
-- la voix choisie (narratrice douce, voix de petite fille pour Alya, une voix pour maman, papa, Ma et Bassi) ;
+- la voix choisie (narratrice douce, voix de petite fille pour Alya, une voix pour maman, papa, Ma et Basidi) ;
 - les pauses et l'intonation.
 
 Toi, tu génères les fichiers audio et tu les nommes `voix_01.mp3`, `voix_02.mp3`, etc.

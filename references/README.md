@@ -26,8 +26,8 @@
 | Ma, v1 (robe longue) | REF_MA_v1.png | MAHbQvXcioM | ❌ refusée |
 | Ma, v2 (58 ans, chemise et pantalon à pinces) | REF_MA_v2.png | MAHbQpga3w4 | ❌ visage trop vieux |
 | **Ma, v3 (visage rajeuni)** | REF_MA_v3.png | **MAHbQhem83o** | ✅ **CHOISI(E)** |
-| Bassi, v1 (gilet) | REF_BASSI_v1.png | MAHbQvCZ0Q4 | ❌ refusée |
-| **Bassi, v2 (64 ans, jean et t-shirt)** | REF_BASSI_v2.png | **MAHbQlM-TDY** | ✅ **CHOISI** |
+| Basidi, v1 (gilet) | REF_BASIDI_v1.png | MAHbQvCZ0Q4 | ❌ refusée |
+| **Basidi, v2 (64 ans, jean et t-shirt)** | REF_BASIDI_v2.png | **MAHbQlM-TDY** | ✅ **CHOISI** |
 | **Tata, v1 (30 ans, cheveux très longs, t-shirt et jean)** | REF_TATA_v1.png | **MAHbQ-bs2P4** | ✅ **CHOISI(E)** |
 | Tonton, v1 | REF_TONTON_v1.png | MAHbQ9oC2w0 | ❌ cheveux trop longs |
 | **Tonton, v2 (cheveux très courts)** | REF_TONTON_v2.png | **MAHbQwvY7d8** | ✅ **CHOISI(E)** |

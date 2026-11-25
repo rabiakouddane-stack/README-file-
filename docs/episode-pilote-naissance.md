@@ -11,7 +11,7 @@
 | Statut | ✅ Validé le 18/11/2026 ; **plans 7 à 18 réécrits** (rencontre à la maternité, cadeau-poupée de la part d'Amir). Plans 1 à 6 validés en image. |
 
 > Les prompts sont en anglais (les outils les comprennent mieux), la narration est en français.
-> Famille : du côté de papa, **Mamie et Papi** ; du côté de maman, **Ma et Bassi**. Seules les grands-mères portent le foulard.
+> Famille : du côté de papa, **Mamie et Papi** ; du côté de maman, **Ma et Basidi**. Seules les grands-mères portent le foulard.
 
 ### Bloc PERSONNAGES (à coller dans chaque prompt image)
 ```
@@ -22,7 +22,7 @@ DAD: man in his early 30s, short dark hair, neat short beard, kind eyes, light-g
 MAMIE (paternal grandmother): warm elderly woman, round kind face, wrinkled smile, cream hijab, beige long cardigan.
 PAPI (paternal grandfather): gentle elderly man, short white beard, round glasses, grey knitted beanie, brown knitted vest.
 MA (maternal grandmother): young-looking 58-year-old grandmother with a youthful smooth face, sparkling dark eyes, warm smile, sage-green hijab, light cream button-up shirt, terracotta pleated trousers, flat loafers.
-BASSI (maternal grandfather): 64-year-old grandfather, black hair with a few grey strands at the temples, thick black moustache, warm laugh lines, navy-blue t-shirt, blue jeans, sneakers, no hat.
+BASIDI (maternal grandfather): 64-year-old grandfather, black hair with a few grey strands at the temples, thick black moustache, warm laugh lines, navy-blue t-shirt, blue jeans, sneakers, no hat.
 AUNT (Tata): young woman, 30 years old, fair light skin, joyful expression, very long straight dark-brown hair worn loose, mustard-yellow t-shirt, blue jeans, white sneakers.
 YANIS (cousin, son of mom's brother): a 2-and-a-half-year-old toddler boy, fair light skin, completely straight smooth dark-brown hair (same color as Amir) ending just above his shoulders, worn loose, chubby rosy cheeks, big cheerful smile, red hoodie, soft jeans, small sneakers.
 UNCLE (Tonton, mom's brother): very tall young man, 30 years old, very short black hair (neat short crop), short trimmed beard, big friendly smile, olive-green t-shirt, blue jeans, sneakers.
@@ -52,7 +52,7 @@ STYLE: original stylized 3D animation, soft rounded shapes, warm natural light, 
 | 14 | 6 s | Maman montre la petite main du bébé. | **Maman** : « Doucement… avec un doigt. » **Narratrice** : « Doucement. Doucement. » | – |
 | 15 | 8 s | ⭐ **Le moment fort** : Amir attrape le doigt d'Alya. Gros plan. Alya ouvre la bouche, émerveillée. | *(silence 3 s)* **Alya** : « Il tient ma main ! » | silence, petit souffle de bébé |
 | 16 | 8 s | Alya donne son dessin. Papa sort un paquet cadeau. | **Alya** : « Pour toi, Amir. » **Papa** : « Et Amir aussi a un cadeau pour toi ! » | papier cadeau |
-| 17 | 8 s | ⭐ Alya ouvre le paquet : **une poupée bébé**. Elle la serre fort contre elle, les yeux brillants. Derrière, Mamie, Papi, Bassi, Tata, Tonton et Yanis arrivent dans la chambre en souriant. | **Alya** : « Mon bébé à moi ! » **Narratrice** : « Un cadeau de son petit frère. » **Bassi** *(doucement)* : « Bienvenue, mon petit. » | rires doux |
+| 17 | 8 s | ⭐ Alya ouvre le paquet : **une poupée bébé**. Elle la serre fort contre elle, les yeux brillants. Derrière, Mamie, Papi, Basidi, Tata, Tonton et Yanis arrivent dans la chambre en souriant. | **Alya** : « Mon bébé à moi ! » **Narratrice** : « Un cadeau de son petit frère. » **Basidi** *(doucement)* : « Bienvenue, mon petit. » | rires doux |
 | 18 | 8 s | Alya, sa poupée dans les bras, à côté de Maman et Amir, regarde la caméra. | **Alya** : « Bienvenue Amir ! » **Narratrice** : « Et toi ? Va faire un gros câlin à ta famille. » | fin en silence |
 
 ---
@@ -62,7 +62,7 @@ STYLE: original stylized 3D animation, soft rounded shapes, warm natural light, 
 - **Plan 7** : `[PERSONNAGES] MA sitting on the sofa in the evening, hugging ALYA and showing her an old photo album, warm lamp light, cozy and reassuring mood, 16:9`
 - **Plan 11** : `[PERSONNAGES] Hospital maternity room door opening, DAD opening the door, MOM in the bed holding newborn AMIR, seen from ALYA's low point of view, bright colorful child-friendly room, clear daylight, 16:9`
 - **Plan 15** : `[PERSONNAGES] Extreme close-up of newborn AMIR's tiny hand gripping ALYA's small finger, ALYA's amazed face softly blurred in the background, golden light, very tender, 16:9`
-- **Plan 17** : `[PERSONNAGES] In the maternity room, ALYA hugging a soft baby doll (cream romper, little pink bonnet) she just unwrapped, MOM in bed holding AMIR, DAD beside, MAMIE, PAPI, BASSI, AUNT, UNCLE and YANIS entering and smiling, wide shot, clear daylight, 16:9`
+- **Plan 17** : `[PERSONNAGES] In the maternity room, ALYA hugging a soft baby doll (cream romper, little pink bonnet) she just unwrapped, MOM in bed holding AMIR, DAD beside, MAMIE, PAPI, BASIDI, AUNT, UNCLE and YANIS entering and smiling, wide shot, clear daylight, 16:9`
 - **LA POUPÉE (accessoire fixe)** : `a soft baby doll with a round face, short dark hair, cream romper with tiny hearts and a little pink bonnet`
 
 ## Prompts vidéo (exemples)

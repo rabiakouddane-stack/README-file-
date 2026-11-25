@@ -22,7 +22,7 @@
 | **Maman** | Femme jeune, tendre |
 | **Papa** | Homme jeune, chaleureux, calme |
 | **Ma** | Femme, chaleureuse, un peu plus mûre |
-| **Bassi** | Homme mûr, grave, doux |
+| **Basidi** | Homme mûr, grave, doux |
 | **Amir** | ❌ pas d'IA : utilise de **vrais sons de bébé** (souffle, petit gazouillis) en licence CC0, sur Pixabay ou Freesound |
 
 ## Les répliques, dans l'ordre
@@ -53,7 +53,7 @@
 | voix_16b.mp3 | 16 | Papa | Et Amir aussi a un cadeau pour toi ! |
 | voix_17a.mp3 | 17 | Alya | Mon bébé à moi ! |
 | voix_17b.mp3 | 17 | Narratrice | Un cadeau de son petit frère. |
-| voix_17c.mp3 | 17 | Bassi | Bienvenue, mon petit. |
+| voix_17c.mp3 | 17 | Basidi | Bienvenue, mon petit. |
 | voix_18a.mp3 | 18 | Alya | Bienvenue Amir ! |
 | voix_18b.mp3 | 18 | Narratrice | Et toi ? Va faire un gros câlin à ta famille. |
 

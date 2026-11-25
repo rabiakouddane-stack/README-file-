@@ -60,9 +60,9 @@ Character turnaround sheet of PAPI: gentle elderly grandfather, short white bear
 Character turnaround sheet of MA: young-looking 58-year-old grandmother with a youthful smooth face, sparkling dark eyes, warm smile, sage-green hijab, light cream button-up shirt, terracotta pleated trousers, flat loafers. Front, three-quarter, side views, full body. [STYLE]
 ```
 
-### Bassi (côté maman)
+### Basidi (côté maman)
 ```
-Character turnaround sheet of BASSI: 64-year-old grandfather, black hair with a few grey strands at the temples, thick black moustache, warm laugh lines, navy-blue t-shirt, blue jeans, sneakers, no hat. Front, three-quarter, side views, full body. [STYLE]
+Character turnaround sheet of BASIDI: 64-year-old grandfather, black hair with a few grey strands at the temples, thick black moustache, warm laugh lines, navy-blue t-shirt, blue jeans, sneakers, no hat. Front, three-quarter, side views, full body. [STYLE]
 ```
 
 ### Tata
@@ -107,7 +107,7 @@ Pour chaque scène de `episode-pilote-naissance.md` :
 ## Étape 4 : voix (ElevenLabs)
 - **Narratrice** : voix féminine douce, vitesse lente. Toujours la même voix.
 - **Alya** : voix de petite fille (ou voix douce rendue plus aiguë), avec de très courtes répliques.
-- **Maman, Mamie, Papi, Bassi** : une voix fixe chacun.
+- **Maman, Mamie, Papi, Basidi** : une voix fixe chacun.
 - **Amir** : vrais sons de bébé (bibliothèque CC0 : souffle, gazouillis).
 - L'agent Voix prépare un fichier avec chaque réplique, la voix choisie et les pauses.
 
@@ -123,7 +123,7 @@ L'agent Montage fournit la feuille de montage : ordre, durées, fondus, voix, so
 | Jour | Ce que tu fais |
 |---|---|
 | J1 | Images de référence : Alya, Amir, Maman, Papa (choisir les meilleures) |
-| J2 | Images de référence : Mamie, Papi, Ma, Bassi, Tata, Tonton, Yanis, décors |
+| J2 | Images de référence : Mamie, Papi, Ma, Basidi, Tata, Tonton, Yanis, décors |
 | J3 | Images des scènes 1 à 9 |
 | J4 | Images des scènes 10 à 18 |
 | J5 | Animation des scènes 1 à 9 (Kling) |

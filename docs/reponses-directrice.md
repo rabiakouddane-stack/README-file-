@@ -92,3 +92,4 @@
 | Lumière | Ni trop sombre **ni trop forte** : lumière douce et naturelle (scène 5 trop lumineuse en v3) |
 | S1E1 | ✅ **Les 18 scènes en grand format sont validées.** Prochaine étape : animation Kling par la directrice |
 | Production | La directrice ne veut **rien faire à la main** : un agent **producteur-video** fabrique tout (images, Kling par API, voix ElevenLabs par API, montage). Elle valide seulement les planches et la vidéo finale. |
+| Animation automatique | **fal.ai** (Kling à la seconde, environ 8 à 13 $ par épisode). API officielle Kling écartée (pack minimum 500 $). Schéma : https://claude.ai/artifact/91vX5oPQaZqvUhxz4hfkFY |

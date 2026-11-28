@@ -1,0 +1,341 @@
+<title>Équipe FlyPark</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;800&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout : un organigramme vertical (gérant → responsable → 7 agents), puis l'état d'avancement et le plan de mise en route. */
+:root {
+  --bg: #f3f5f8;
+  --surface: #ffffff;
+  --fg: #16202c;
+  --muted: #5b6878;
+  --line: #d5dce5;
+  --runway: #1d3a5f;
+  --sign: #f2b705;
+  --sign-ink: #3a2c00;
+  --ok: #1f7a4d;
+  --ok-bg: #e3f3ea;
+  --todo: #9a5b00;
+  --todo-bg: #fdf1dc;
+  --stop: #a2312a;
+  --stop-bg: #fbe8e6;
+  --display: "Archivo", "Helvetica Neue", Arial, sans-serif;
+  --body: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0f151d; --surface: #17202b; --fg: #e6ebf1; --muted: #9aa7b6; --line: #2a3644;
+    --runway: #8fb4e3; --sign: #f2b705; --sign-ink: #1c1500;
+    --ok: #5fc98f; --ok-bg: #143022; --todo: #f0b25a; --todo-bg: #33250f; --stop: #f08a80; --stop-bg: #3a1a17;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0f151d; --surface: #17202b; --fg: #e6ebf1; --muted: #9aa7b6; --line: #2a3644;
+  --runway: #8fb4e3; --sign: #f2b705; --sign-ink: #1c1500;
+  --ok: #5fc98f; --ok-bg: #143022; --todo: #f0b25a; --todo-bg: #33250f; --stop: #f08a80; --stop-bg: #3a1a17;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  background: var(--bg); color: var(--fg); font-family: var(--body); font-size: 15px; line-height: 1.55;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 32px 64px;
+}
+main { max-width: 1120px; margin: 0 auto; display: flex; flex-direction: column; gap: 56px; }
+h1, h2, h3 { font-family: var(--display); text-wrap: balance; margin: 0; }
+h1 { font-size: clamp(2rem, 5vw, 3rem); font-weight: 800; letter-spacing: -0.01em; }
+h2 { font-size: 1.55rem; font-weight: 800; }
+h3 { font-size: 1.05rem; font-weight: 700; }
+p { margin: 0; }
+code, .mono { font-family: var(--mono); font-size: 0.86em; }
+.eyebrow { font-family: var(--display); font-weight: 700; font-size: 0.75rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); }
+.lead { max-width: 65ch; color: var(--muted); font-size: 1.05rem; }
+header { display: flex; flex-direction: column; gap: 12px; }
+.rule { display: inline-flex; align-items: center; gap: 10px; background: var(--sign); color: var(--sign-ink); font-weight: 600; padding: 8px 14px; border-radius: 4px; width: fit-content; max-width: 100%; }
+
+/* Organigramme */
+.org { display: flex; flex-direction: column; align-items: center; gap: 0; }
+.node { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 18px 20px; width: min(100%, 560px); display: flex; flex-direction: column; gap: 8px; }
+.node.boss { border: 2px solid var(--sign); }
+.node.lead { border: 2px solid var(--runway); }
+.node ul { margin: 0; padding-left: 18px; display: flex; flex-direction: column; gap: 2px; }
+.link { width: 2px; height: 28px; background: var(--line); }
+.agents { width: 100%; display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 16px; border-top: 2px solid var(--line); padding-top: 28px; }
+.agent { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; display: flex; flex-direction: column; overflow: hidden; min-width: 0; }
+.agent .head { display: flex; align-items: center; gap: 12px; padding: 16px 18px 6px; }
+.num { flex: none; width: 34px; height: 34px; border-radius: 6px; background: var(--runway); color: var(--surface); font-family: var(--display); font-weight: 800; display: grid; place-items: center; }
+.agent .body { padding: 6px 18px 16px; display: flex; flex-direction: column; gap: 10px; flex: 1; }
+.agent ul { margin: 0; padding-left: 18px; display: flex; flex-direction: column; gap: 3px; }
+.tools { display: flex; flex-wrap: wrap; gap: 6px; }
+.tool { font-family: var(--mono); font-size: 0.74rem; padding: 2px 7px; border-radius: 4px; border: 1px solid var(--line); color: var(--muted); }
+.tool.ai { border-color: var(--runway); color: var(--runway); }
+.never { margin-top: auto; background: var(--stop-bg); color: var(--stop); padding: 10px 18px; font-size: 0.88rem; font-weight: 500; }
+.never b { font-weight: 700; }
+.legend { display: flex; flex-wrap: wrap; gap: 16px; color: var(--muted); font-size: 0.85rem; justify-content: center; }
+.legend span { display: inline-flex; align-items: center; gap: 6px; }
+
+/* Tableaux */
+.section { display: flex; flex-direction: column; gap: 18px; }
+.scroll { overflow-x: auto; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); }
+table { border-collapse: collapse; width: 100%; min-width: 640px; }
+th, td { text-align: left; padding: 11px 14px; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { font-family: var(--display); font-size: 0.78rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); font-weight: 700; }
+tr:last-child td { border-bottom: none; }
+.chip { display: inline-block; font-size: 0.76rem; font-weight: 600; padding: 2px 9px; border-radius: 999px; white-space: nowrap; }
+.chip.ok { background: var(--ok-bg); color: var(--ok); }
+.chip.todo { background: var(--todo-bg); color: var(--todo); }
+.chip.stop { background: var(--stop-bg); color: var(--stop); }
+
+/* Étapes */
+.steps { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 14px; counter-reset: s; }
+.steps > li { counter-increment: s; display: grid; grid-template-columns: 44px 1fr; gap: 14px; background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 16px 18px; }
+.steps > li::before { content: counter(s); width: 34px; height: 34px; border-radius: 50%; border: 2px solid var(--runway); color: var(--runway); display: grid; place-items: center; font-family: var(--display); font-weight: 800; }
+.steps > li > div { display: flex; flex-direction: column; gap: 6px; min-width: 0; }
+.steps ul { margin: 0; padding-left: 18px; }
+.who { font-size: 0.8rem; color: var(--muted); }
+.plates { font-family: var(--mono); background: var(--bg); border: 1px solid var(--line); border-radius: 6px; padding: 10px 12px; overflow-x: auto; font-size: 0.82rem; white-space: pre; }
+footer { color: var(--muted); font-size: 0.85rem; max-width: 70ch; }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+
+<main>
+  <header>
+    <span class="eyebrow">Parking aéroport · équipe d'agents IA</span>
+    <h1>L'équipe FlyPark</h1>
+    <p class="lead">Un responsable et 7 agents spécialisés. Ils préparent, calculent, surveillent et proposent. Toi, le gérant, tu valides chaque remboursement, prix, envoi, publication et dépense.</p>
+    <span class="rule">Règle d'or : les agents proposent, toi seul décides.</span>
+  </header>
+
+  <section class="org" aria-label="Organigramme de l'équipe">
+    <div class="node boss">
+      <span class="eyebrow">Toi</span>
+      <h2>Le gérant</h2>
+      <ul>
+        <li>Valide ou refuse chaque décision : <code>python flypark.py valider D001</code></li>
+        <li>Reçoit les alertes directement (voiture entrée sans paiement…)</li>
+        <li>Écrit le plan, la politique de remboursement et les tarifs</li>
+      </ul>
+    </div>
+    <div class="link"></div>
+    <div class="node lead">
+      <span class="eyebrow">Chef d'équipe</span>
+      <h2>Responsable de l'équipe</h2>
+      <ul>
+        <li>Reçoit tes demandes et choisit les bons agents</li>
+        <li>Leur répartit le travail, en parallèle quand c'est possible</li>
+        <li>Vérifie que tout colle avec ton plan (prix plancher, budget…)</li>
+        <li>Te présente une synthèse, les alertes et les décisions à prendre</li>
+      </ul>
+      <div class="tools"><span class="tool">deleguer</span><span class="tool">lire_plan</span><span class="tool">decisions_en_attente</span></div>
+    </div>
+    <div class="link"></div>
+
+    <div class="agents">
+      <article class="agent">
+        <div class="head"><span class="num">1</span><h3>Stratégie &amp; veille</h3></div>
+        <div class="body">
+          <ul>
+            <li>Relève les prix des concurrents : Tilt, JT Parking, Air Parking, Aeropark 60, P1 à P4, particuliers</li>
+            <li>Surveille les plateformes : Allopark, Parkmundo, Free2Move, et signale toute autre plateforme qu'il trouve</li>
+            <li>Propose un prix (règle : 1 € de moins que le moins cher)</li>
+            <li>Étudie les nouveaux revenus : click &amp; collect, stockage, gardiennage</li>
+          </ul>
+          <div class="tools"><span class="tool ai">recherche web</span><span class="tool">comparer_prix</span><span class="tool">enregistrer_prix_concurrent</span></div>
+        </div>
+        <p class="never"><b>Jamais seul :</b> changer un prix.</p>
+      </article>
+
+      <article class="agent">
+        <div class="head"><span class="num">2</span><h3>Marketing</h3></div>
+        <div class="body">
+          <ul>
+            <li>Prépare les campagnes Google, Instagram, Facebook et TikTok</li>
+            <li>Prépare l'emailing aux anciens clients</li>
+            <li>Cherche les dernières tendances pour fidéliser, adaptées à un parking d'aéroport</li>
+            <li>Utilise tes sent-bon déjà achetés : quand les offrir, comment les mettre en avant</li>
+          </ul>
+          <div class="tools"><span class="tool ai">recherche web</span><span class="tool">statistiques_clients</span><span class="tool">enregistrer_brouillon</span></div>
+        </div>
+        <p class="never"><b>Jamais seul :</b> publier, envoyer, dépenser.</p>
+      </article>
+
+      <article class="agent">
+        <div class="head"><span class="num">3</span><h3>Ventes &amp; partenaires</h3></div>
+        <div class="body">
+          <ul>
+            <li>Suit les demandes d'API auprès des plateformes</li>
+            <li>Calcule ce que rapporte chaque plateforme, commission retirée</li>
+            <li>Prépare des offres pour les pros : agences, loueurs, entreprises</li>
+          </ul>
+          <div class="tools"><span class="tool">revenu_net_plateformes</span><span class="tool">lire_config</span><span class="tool">enregistrer_brouillon</span></div>
+        </div>
+        <p class="never"><b>Jamais seul :</b> envoyer une offre.</p>
+      </article>
+
+      <article class="agent">
+        <div class="head"><span class="num">4</span><h3>Contenu</h3></div>
+        <div class="body">
+          <ul>
+            <li>Rédige les affiches : « Exigez votre reçu », information sur la caméra</li>
+            <li>Écrit les posts, la FAQ et les pages du site</li>
+            <li>Te donne des brouillons à relire</li>
+          </ul>
+          <div class="tools"><span class="tool">enregistrer_brouillon</span><span class="tool">lire_politique</span></div>
+        </div>
+        <p class="never"><b>Jamais seul :</b> publier.</p>
+      </article>
+
+      <article class="agent">
+        <div class="head"><span class="num">5</span><h3>Support, réservations &amp; litiges</h3></div>
+        <div class="body">
+          <ul>
+            <li>Lit les emails et les messages WhatsApp</li>
+            <li>Applique ta politique d'annulation et de remboursement</li>
+            <li>Déduit les frais bancaires d'encaissement et de remboursement</li>
+            <li>Te propose « rembourser X € » ou « refuser, avec tel motif »</li>
+            <li>Prépare les dossiers de litige et de contestation Stripe</li>
+          </ul>
+          <div class="tools"><span class="tool">lire_messages</span><span class="tool">calculer_remboursement</span><span class="tool">preparer_dossier_litige</span></div>
+        </div>
+        <p class="never"><b>Jamais seul :</b> rembourser, répondre au client.</p>
+      </article>
+
+      <article class="agent">
+        <div class="head"><span class="num">6</span><h3>Automatisation &amp; contrôle</h3></div>
+        <div class="body">
+          <ul>
+            <li>Reçoit les plaques lues par la caméra</li>
+            <li>Compare les voitures avec les réservations et les paiements</li>
+            <li>T'envoie une alerte si une voiture entre sans paiement</li>
+            <li>Fait arriver seules dans FlyPark les réservations du site et des plateformes</li>
+          </ul>
+          <div class="tools"><span class="tool">verifier_entrees</span><span class="tool">importer_reservations</span><span class="tool">alerter_gerant</span></div>
+        </div>
+        <p class="never"><b>Calcul exact, sans IA :</b> les comparaisons sont faites par du code.</p>
+      </article>
+
+      <article class="agent">
+        <div class="head"><span class="num">7</span><h3>Compta &amp; caisse</h3></div>
+        <div class="body">
+          <ul>
+            <li>Compare chaque jour voitures, paiements et reçus</li>
+            <li>Repère les écarts d'espèces par employé</li>
+            <li>Prépare l'export du mois pour ton comptable</li>
+          </ul>
+          <div class="tools"><span class="tool">rapprochement_jour</span><span class="tool">export_mois</span></div>
+        </div>
+        <p class="never"><b>Jamais :</b> accuser un employé. Il donne les faits, tu décides.</p>
+      </article>
+    </div>
+    <div class="legend" style="margin-top:16px">
+      <span><span class="tool ai">bleu</span> utilise internet</span>
+      <span><span class="tool">gris</span> outil interne</span>
+      <span>Toutes les propositions passent par <code>proposer_decision</code></span>
+    </div>
+  </section>
+
+  <section class="section">
+    <div>
+      <span class="eyebrow">Avancement</span>
+      <h2>Ce qui est fait et ce qui reste</h2>
+    </div>
+    <div class="scroll">
+      <table>
+        <thead><tr><th>Élément</th><th>État</th><th>Ce qu'il faut faire</th></tr></thead>
+        <tbody>
+          <tr><td>Les 8 agents, leurs missions et la file des décisions</td><td><span class="chip ok">Prêt</span></td><td>Rien. Testé avec un Claude simulé.</td></tr>
+          <tr><td>Contrôles caméra, caisse, remboursements, export compta</td><td><span class="chip ok">Prêt</span></td><td>Rien. Testés sur des données d'exemple.</td></tr>
+          <tr><td>Essai avec le vrai Claude</td><td><span class="chip todo">À faire</span></td><td>Créer une clé API et faire un premier essai (étape 2).</td></tr>
+          <tr><td>Tes vrais chiffres</td><td><span class="chip todo">À faire</span></td><td>Remplir <code>plan.md</code>, <code>politique.md</code> et <code>config.json</code> (tarifs, frais bancaires, commissions, stock de sent-bon).</td></tr>
+          <tr><td>Caméra de lecture de plaques</td><td><span class="chip stop">À brancher</span></td><td>Récupérer les plaques automatiquement (export ou API de la caméra).</td></tr>
+          <tr><td>Paiements Stripe et caisse</td><td><span class="chip stop">À brancher</span></td><td>Lire les paiements Stripe et faire saisir les espèces et les reçus par les employés.</td></tr>
+          <tr><td>Réservations du site, des plateformes et FlyPark</td><td><span class="chip stop">À brancher</span></td><td>Recevoir les réservations par API ou par fichier.</td></tr>
+          <tr><td>Emails et WhatsApp</td><td><span class="chip stop">À brancher</span></td><td>Lire ta boîte mail et WhatsApp Business.</td></tr>
+          <tr><td>Alertes sur ton téléphone</td><td><span class="chip stop">À brancher</span></td><td>Envoyer les alertes par SMS ou WhatsApp (aujourd'hui : écran et fichier).</td></tr>
+          <tr><td>Lancement automatique</td><td><span class="chip stop">À mettre en place</span></td><td>Un ordinateur allumé en permanence et un planning (étapes 3 et 5).</td></tr>
+          <tr><td>Valider depuis ton téléphone</td><td><span class="chip todo">Plus tard</span></td><td>Aujourd'hui, la validation se fait en ligne de commande. Une petite page web est possible.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="section">
+    <div>
+      <span class="eyebrow">Mise en route</span>
+      <h2>Comment tout faire tourner automatiquement</h2>
+    </div>
+    <ol class="steps">
+      <li><div>
+        <h3>Remplir tes vrais chiffres</h3>
+        <p>Ton plan, ta politique de remboursement, tes tarifs, tes frais bancaires réels (Stripe, banque), les commissions des plateformes et ton stock de sent-bon. Les valeurs actuelles sont des exemples.</p>
+        <span class="who">Toi · 1 heure</span>
+      </div></li>
+      <li><div>
+        <h3>Créer la clé API et faire un premier essai</h3>
+        <p>Crée un compte sur console.anthropic.com, une clé API et un plafond de dépense mensuel. Puis lance l'équipe à la main et pose-lui quelques questions pour vérifier ses réponses.</p>
+        <div class="plates">pip install -r agents/requirements.txt
+export ANTHROPIC_API_KEY="ta-clé"
+cd agents/flypark &amp;&amp; python flypark.py</div>
+        <span class="who">Toi, avec moi si besoin · 30 minutes</span>
+      </div></li>
+      <li><div>
+        <h3>Choisir l'ordinateur qui tourne en permanence</h3>
+        <p>Soit un petit PC ou mini-ordinateur au parking, branché à la caméra et à internet. Soit un serveur en ligne loué au mois. Il doit rester allumé jour et nuit.</p>
+        <span class="who">Toi · décision à prendre</span>
+      </div></li>
+      <li><div>
+        <h3>Brancher les sources, une par une</h3>
+        <p>Chaque branchement remplace un fichier d'exemple, à un seul endroit dans <code>donnees_flypark.py</code>. Ordre conseillé :</p>
+        <ul>
+          <li><b>Caméra</b> et <b>Stripe</b> d'abord : c'est ce qui rend utile l'alerte « voiture entrée sans paiement ».</li>
+          <li><b>Caisse</b> : les employés saisissent chaque paiement en espèces et chaque reçu (tablette ou formulaire).</li>
+          <li><b>Alertes sur ton téléphone</b> par SMS ou WhatsApp.</li>
+          <li><b>Réservations</b> du site, des plateformes et FlyPark.</li>
+          <li><b>Emails et WhatsApp</b> pour le support.</li>
+        </ul>
+        <span class="who">Moi, avec tes accès · il me faut le modèle de la caméra et tes comptes (Stripe, FlyPark, plateformes)</span>
+      </div></li>
+      <li><div>
+        <h3>Programmer le planning</h3>
+        <p>Sur l'ordinateur choisi, un planning lance les tâches tout seul :</p>
+        <div class="scroll">
+          <table>
+            <thead><tr><th>Quand</th><th>Commande</th><th>Ce que tu reçois</th></tr></thead>
+            <tbody>
+              <tr><td>Toutes les 5 min</td><td><code>flypark.py controle</code></td><td>Une alerte si une voiture entre sans paiement</td></tr>
+              <tr><td>Toutes les 15 min</td><td><code>flypark.py import</code></td><td>Les réservations arrivent dans FlyPark</td></tr>
+              <tr><td>Toutes les heures</td><td><code>flypark.py tache "Traite les nouveaux messages clients"</code></td><td>Des réponses et des remboursements proposés</td></tr>
+              <tr><td>Chaque soir</td><td><code>flypark.py tache "Fais la caisse du jour"</code></td><td>Le rapprochement voitures, paiements et reçus</td></tr>
+              <tr><td>Chaque lundi</td><td><code>flypark.py tache "Relève les prix concurrents et plateformes"</code></td><td>Un prix proposé</td></tr>
+              <tr><td>Chaque mois</td><td><code>flypark.py tache "Tendances fidélisation et campagnes du mois"</code></td><td>Un plan marketing en brouillon</td></tr>
+              <tr><td>Le 1er du mois</td><td><code>flypark.py export AAAA-MM</code></td><td>Le fichier pour ton comptable</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <span class="who">Moi · 1 heure une fois l'ordinateur choisi</span>
+      </div></li>
+      <li><div>
+        <h3>Valider chaque jour</h3>
+        <p>Chaque matin, regarde les décisions en attente et valide ou refuse. Les comptes rendus sont dans <code>rapports/</code>, les brouillons dans <code>brouillons/</code>.</p>
+        <div class="plates">python flypark.py decisions
+python flypark.py valider D004
+python flypark.py refuser D005 "client prévenu trop tard"</div>
+        <span class="who">Toi · 10 minutes par jour</span>
+      </div></li>
+      <li><div>
+        <h3>Vérifier les règles avant d'ouvrir</h3>
+        <ul>
+          <li><b>Caméra</b> : panneau d'information, durée de conservation des images, règles de la CNIL.</li>
+          <li><b>Frais retenus sur les remboursements</b> : à écrire dans tes conditions de vente, avant la réservation.</li>
+          <li><b>Emailing</b> : n'écrire qu'aux clients qui ont accepté (RGPD).</li>
+        </ul>
+        <span class="who">Toi, avec un juriste ou ton comptable</span>
+      </div></li>
+    </ol>
+  </section>
+
+  <footer>Le code se trouve dans le dossier <code>agents/flypark/</code> du dépôt, sur la branche <code>claude/agents-ia-8ja43r</code>. Les données actuelles (clients, plaques, prix, frais) sont des exemples.</footer>
+</main>

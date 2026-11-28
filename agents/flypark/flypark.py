@@ -8,6 +8,8 @@
   python flypark.py import              importer les réservations du site et des plateformes
   python flypark.py caisse [AAAA-MM-JJ] rapprochement voitures / paiements / reçus (sans IA)
   python flypark.py export AAAA-MM      préparer l'export du mois pour le comptable
+  python flypark.py tache "demande"     confier une tâche à l'équipe sans discuter (pour l'automatique) ;
+                                        le compte rendu est enregistré dans rapports/
 """
 
 import json
@@ -61,6 +63,15 @@ def main(args):
         print(d.importer_reservations())
     elif commande == "caisse":
         print(json.dumps(d.rapprochement_jour(reste[0] if reste else None), ensure_ascii=False, indent=2))
+    elif commande == "tache" and reste:
+        from datetime import datetime
+        from equipe import Responsable
+
+        demande = " ".join(reste)
+        compte_rendu = Responsable().demander(demande)
+        print(compte_rendu)
+        print(d.enregistrer_document("rapports", demande[:40],
+                                     f"# {demande}\n\n{datetime.now():%Y-%m-%d %H:%M}\n\n{compte_rendu}\n"))
     elif commande == "export" and reste:
         print(d.export_mois(reste[0]))
     else:

@@ -189,7 +189,10 @@ SPECIALISTES = {
   tes propositions : quand et à qui les offrir (à la remise des clés, aux clients fidèles, aux
   pros, en cadeau de parrainage…), comment les mettre en avant (photo sur Instagram/TikTok,
   mention dans l'email de confirmation, invitation à laisser un avis), et vérifie que le stock
-  suffit. Ne propose pas d'acheter d'autres objets sans le chiffrer et passer par une décision.
+  suffit. Ces sent-bon sont DÉJÀ ACHETÉS : les offrir n'est pas une dépense, ne compte pas leur
+  coût dans tes budgets et ne crée pas de décision « dépense » pour eux. Ne propose pas d'en
+  racheter ni d'acheter d'autres objets, sauf si le stock est presque épuisé (alors chiffre-le
+  et passe par une décision).
 - FIDÉLISATION : quand on te le demande (et au moins une fois par mois), cherche sur le web les
   DERNIÈRES tendances marketing pour fidéliser les clients (programmes de fidélité, avantages
   membres, parrainage, avis clients, messages WhatsApp/SMS, personnalisation, offres pour les

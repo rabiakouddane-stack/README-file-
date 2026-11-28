@@ -29,8 +29,8 @@
       "nom": "Sent-bon (désodorisant voiture) aux couleurs de FlyPark",
       "usage": "offert aux clients",
       "stock": null,
-      "cout_unitaire_euros": null,
-      "_note": "Complète le stock et le coût unitaire pour que le Marketing calcule le budget."
+      "_note": "Déjà payés : les offrir ne coûte rien de plus. Indique le stock restant si tu veux que le Marketing le suive.",
+      "deja_achete": true
     }
   ],
   "frais_bancaires": {
